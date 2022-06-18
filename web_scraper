@@ -1,0 +1,63 @@
+# Import scraping modules
+from urllib.request import urlopen
+from bs4 import BeautifulSoup
+
+# Import data manipulation modules
+import pandas as pd
+import numpy as np
+# Import data visualization modules
+import matplotlib as mpl
+import matplotlib.pyplot as plt
+
+# URL of page
+url = 'https://www.pro-football-reference.com/years/2021/passing.htm'
+# Open URL and pass to BeautifulSoup
+html = urlopen(url)
+stats_page = BeautifulSoup(html)
+
+# Collect table headers
+column_headers = stats_page.findAll('tr')[0]
+column_headers = [i.getText() for i in column_headers.findAll('th')]
+
+print(column_headers)
+
+# Collect table rows
+rows = stats_page.findAll('tr')[1:]
+# Get stats from each row
+qb_stats = []
+for i in range(len(rows)):
+  qb_stats.append([col.getText() for col in rows[i].findAll('td')])
+
+# Create DataFrame from our scraped data
+data = pd.DataFrame(qb_stats, columns=column_headers[1:])
+
+# Examine first five rows of data
+data.head()
+
+def pull_data(url):
+    html = urlopen(url)
+    stats_page = BeautifulSoup(html)
+    column_headers = stats_page.findAll('tr')[0]
+    column_headers = [i.getText() for i in column_headers.findAll('th')]
+    rows = stats_page.findAll('tr')[1:]
+    stats = []
+    for i in range(len(rows)):
+      stats.append([col.getText() for col in rows[i].findAll('td')])
+    data = pd.DataFrame(stats, columns=column_headers[1:])
+    print('Complete')
+    return data
+
+qb_2019 = pull_data('https://www.pro-football-reference.com/years/2019/passing.htm')
+qb_2019.to_csv('pf_qb_2019.csv')
+
+qb_2020 = pull_data('https://www.pro-football-reference.com/years/2020/passing.htm')
+qb_2020.to_csv('pf_qb_2020.csv')
+
+qb_2021 = pull_data('https://www.pro-football-reference.com/years/2021/passing.htm')
+qb_2021.to_csv('pf_qb_a_2021.csv')
+
+qb_2018 = pull_data('https://www.pro-football-reference.com/years/2018/passing.htm')
+qb_2018.to_csv('pf_qb_2018.csv')
+
+qb_2017 = pull_data('https://www.pro-football-reference.com/years/2017/passing.htm')
+qb_2017.to_csv('pf_qb_2017.csv')
