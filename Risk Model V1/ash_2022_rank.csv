@@ -1,0 +1,336 @@
+,id,firstName,lastName,adp,projectedPoints,positionRank,slotName,teamName,value
+1,69687967-146f-40b7-9dc9-851995c3f4ac,Derrick,Henry,7.6,395.0627138,RB4,RB,Tennessee Titans,6.6
+2,f015ede6-d975-495c-ac72-4e01ec70fee8,Najee,Harris,8.7,373.3135737,RB5,RB,Pittsburgh Steelers,6.7
+3,1fe3abfa-791d-4477-800e-d08243134ce7,Aaron,Jones,18.3,367.148103,RB9,RB,Green Bay Packers,15.3
+4,032962ab-fc10-45ea-92c4-24f0ae80de63,Javonte,Williams,26.6,348.7173044,RB14,RB,Denver Broncos,22.6
+5,70580da9-7858-462f-a1fd-4ff47a7b1172,Cooper,Kupp,2.5,325.9849738,WR1,WR,Los Angeles Rams,-2.5
+6,fa2fcc47-5a09-458e-82b6-656b030ad88a,Jonathan,Taylor,1.2,323.0747022,RB1,RB,Indianapolis Colts,-4.8
+7,ff866ea0-6a39-4843-8a53-523c7b6e16e3,Travis,Kelce,11.3,305.8373096,TE1,TE,Kansas City Chiefs,4.3
+8,03f17ad2-f686-42e3-bc73-343f72f24d01,A.J.,Brown,23.6,299.1808958,WR10,WR,Philadelphia Eagles,15.6
+9,ca6b7b2f-cdba-40cd-86ec-851629b8890b,Stefon,Diggs,8.6,283.71011,WR4,WR,Buffalo Bills,-0.4
+10,56644f6b-3c3b-41e0-9e97-e8a9ec3c84be,Devonta,Smith,71.4,277.1928935,WR35,WR,Philadelphia Eagles,61.4
+11,a02e9e01-0185-4a4b-a692-cdd006d9ddf0,Josh,Allen,29,266.810061,QB1,QB,Buffalo Bills,18
+12,72e44052-5065-4bd4-a2db-c3f9949ec20e,Lamar,Jackson,52,262.44105,QB4,QB,Baltimore Ravens,40
+13,07be9979-34f6-41ca-a078-54e1ec22699e,Deshaun,Watson,120.1,260.02851,QB15,QB,Cleveland Browns,107.1
+14,775a2782-c1e2-40f7-983c-2cf0e7863edb,Josh,Jacobs,62.2,253.5245931,RB22,RB,Las Vegas Raiders,48.2
+15,2933617f-a121-459c-9714-35bd8345303a,Kyler,Murray,60.8,252.34596,QB5,QB,Arizona Cardinals,45.8
+16,cd07ea39-bbc8-40f5-a61e-d16963f518a3,Justin,Herbert,44.9,248.92911,QB3,QB,Los Angeles Chargers,28.9
+17,eddbec45-5a29-4976-af96-176858468bcb,D'Andre,Swift,16.7,241.5368068,RB8,RB,Detroit Lions,-0.3
+18,f40693b0-68e6-4360-b90c-b55bc425147b,Dalvin,Cook,11,238.465327,RB6,RB,Minnesota Vikings,-7
+19,aa962038-90f9-43d6-9b87-b49999168b25,Michael,Pittman,31.6,234.7928803,WR14,WR,Indianapolis Colts,12.6
+20,117bf732-d2a0-4094-b84b-5bb028010eb0,Patrick,Mahomes,39.4,232.60353,QB2,QB,Kansas City Chiefs,19.4
+21,74bdf837-4480-49f7-b623-8420b98cd303,D.J.,Moore,36.1,230.2887162,WR16,WR,Carolina Panthers,15.1
+22,f9a916a9-1045-4fca-a4d4-fd9ed9b65b09,Hunter,Renfrow,82.2,229.8368384,WR40,WR,Las Vegas Raiders,60.2
+23,afce47e8-89bb-48d5-bc3a-5fc67a0ce50b,Davante,Adams,11.4,226.6262228,WR5,WR,Las Vegas Raiders,-11.6
+24,63335fc3-4ab9-4ebe-8a5c-dee868f45036,Diontae,Johnson,40,226.1120625,WR18,WR,Pittsburgh Steelers,16
+25,2cd9ecbb-3f8a-4dda-b918-10163b9bf749,Mark,Andrews,16.3,221.2186153,TE2,TE,Baltimore Ravens,-8.7
+26,0424f7b7-948a-4e64-a462-1915a53c51e6,Alvin,Kamara,21.1,215.4997659,RB10,RB,New Orleans Saints,-4.9
+27,62154a84-9ad4-41f8-b3f3-23801013ebc8,Justin,Jefferson,4.1,214.4124858,WR2,WR,Minnesota Vikings,-22.9
+28,8d9ff2b9-d63f-4645-84c8-e5e05413b93e,Nick,Chubb,25.8,213.7509656,RB12,RB,Cleveland Browns,-2.2
+29,fffb17af-f368-4b09-8aa4-e119998f6e01,Aaron,Rodgers,103.6,210.437232,QB13,QB,Green Bay Packers,74.6
+30,a1309c81-c3c7-41bd-a8fc-4482a1bed951,Antonio,Gibson,65.9,207.320995,RB23,RB,Washington Commanders,35.9
+31,6022e5bc-a85c-471a-b78b-a66066f24ce4,Ja'Marr,Chase,5.1,205.3041846,WR3,WR,Cincinnati Bengals,-25.9
+32,72a1b950-f005-419c-b67f-08d7f7f5df27,Joe,Mixon,13.4,203.9630044,RB7,RB,Cincinnati Bengals,-18.6
+33,4a165d4b-b5f1-4d10-863f-4df84cd90fd2,James,Conner,32.9,202.8592706,RB15,RB,Arizona Cardinals,-0.1
+34,6a60f97f-e16f-44dd-bcc1-da885f8ae2b0,Marquise,Brown,36.4,202.1889429,WR17,WR,Arizona Cardinals,2.4
+35,aa6f212c-a39b-441d-b9ed-4c4f76a9e718,Tee,Higgins,23.9,197.6774246,WR11,WR,Cincinnati Bengals,-11.1
+36,f76e9085-98bd-4a81-ab2c-aaf7310d9a6d,Tyreek,Hill,21.7,195.3187783,WR9,WR,Miami Dolphins,-14.3
+37,6d236cf4-3026-4dad-aa5e-e2ed3a3dcad2,Tyler,Lockett,90.3,191.5324643,WR44,WR,Seattle Seahawks,53.3
+38,5c9f516c-4bf7-40b2-b9e1-50675a5b8988,Jaylen,Waddle,35.1,189.2798743,WR15,WR,Miami Dolphins,-2.9
+39,78b2ca61-7ec2-43fc-8456-607b0cb95a89,D.K.,Metcalf,44.5,187.6781843,WR21,WR,Seattle Seahawks,5.5
+40,59109372-112c-4226-8a1e-bdb13389e7d8,Jalen,Hurts,63.6,187.283511,QB6,QB,Philadelphia Eagles,23.6
+41,8be0f709-c335-4e99-aca6-a2a6e9eae205,Leonard,Fournette,22.5,185.7836213,RB11,RB,Tampa Bay Buccaneers,-18.5
+42,fce90658-25d8-4bc2-aec4-242a8784e910,CeeDee,Lamb,13.4,182.8495918,WR6,WR,Dallas Cowboys,-28.6
+43,e7711ec6-eee2-4df3-bf09-58166bcfba99,Terry,McLaurin,46,180.9896222,WR22,WR,Washington Commanders,3
+44,464cf22b-8a6e-486c-bd56-ba38b76a7d1c,Chris,Godwin,53.7,179.4430089,WR26,WR,Tampa Bay Buccaneers,9.7
+45,d014ebbf-3fb8-4c05-8526-8c1de9009261,Ezekiel,Elliott,41,178.7644497,RB16,RB,Dallas Cowboys,-4
+46,96100e46-cf7b-4e90-9254-59245d37fe31,Russell,Wilson,76.7,175.974102,QB8,QB,Denver Broncos,30.7
+47,fb9af657-c47a-4d72-8146-20b8bd6e5f49,Mike,Evans,18.4,169.6571654,WR8,WR,Tampa Bay Buccaneers,-28.6
+48,1a6e0e13-cfeb-46f6-a9e8-c7483f2b7bb3,Joe,Burrow,69.2,163.87644,QB7,QB,Cincinnati Bengals,21.2
+49,9196bc1d-374f-4701-8e8a-1646e4e2e65a,Amari,Cooper,48,161.4970234,WR23,WR,Cleveland Browns,-1
+50,319fcf5c-6a5f-4598-93da-1f287ce6ba54,Keenan,Allen,27.3,160.5026651,WR12,WR,Los Angeles Chargers,-22.7
+51,36f843c7-40b3-43bd-84b8-14274e0d4e98,Dak,Prescott,85.8,158.0628,QB10,QB,Dallas Cowboys,34.8
+52,40f907c8-711d-4f93-93f7-e268d966fe42,Austin,Ekeler,6.5,143.8731757,RB3,RB,Los Angeles Chargers,-45.5
+53,7fde70e8-ab8e-4064-99fb-3ddd88e5dc9f,Deebo,Samuel,17.4,143.3777727,WR7,WR,San Francisco 49ers,-35.6
+54,799e8f24-9514-4aa6-8bb7-dcbcd3a385b7,Tyler,Boyd,111.3,142.9085194,WR53,WR,Cincinnati Bengals,57.3
+55,a629f60e-bb1c-4252-a852-9317c61ce37d,Dalton,Schultz,72.5,142.4405465,TE6,TE,Dallas Cowboys,17.5
+56,0e88b6cc-b68a-4329-a6f9-6964990e29d7,Christian,Kirk,87.5,141.8106796,WR42,WR,Jacksonville Jaguars,31.5
+57,7d1b182a-93f7-4acb-bfff-576d71ab6d68,Elijah,Mitchell,70.9,138.4635028,RB24,RB,San Francisco 49ers,13.9
+58,bb069a8d-1733-4d33-ace3-cd092f079426,Kenneth,Walker,87.8,135.1928204,RB28,RB,Seattle Seahawks,29.8
+59,bb069a8d-1733-4d33-ace3-cd092f079426,Kenneth,Walker,87.8,135.1928204,RB28,RB,Seattle Seahawks,28.8
+60,91372bfe-bbe8-4435-90ed-bbc90c4461b9,Mike,Williams,29.3,126.9991073,WR13,WR,Los Angeles Chargers,-30.7
+61,3dcb0cec-9e44-4ba6-bdff-cb5826c2c320,David,Montgomery,53.5,125.106063,RB20,RB,Chicago Bears,-7.5
+62,5fc9caf6-8317-481e-b469-4d0b4c9cd44f,Darnell,Mooney,61.5,124.9955696,WR30,WR,Chicago Bears,-0.5
+63,0778e723-5dab-40b0-b9f9-8f686fd457e6,Kirk,Cousins,122.5,117.626418,QB16,QB,Minnesota Vikings,59.5
+64,3089ad59-9356-4ca8-850f-578c7baa11e8,Devin,Singletary,105.6,112.5407829,RB33,RB,Buffalo Bills,41.6
+65,387a5dea-dcca-4417-a460-1f990a8fb66b,Dallas,Goedert,95,111.3958182,TE8,TE,Philadelphia Eagles,30
+66,8e2a56bb-c4f3-4949-84a9-74d6fd7ed845,Michael,Thomas,66.8,109.3104088,WR31,WR,New Orleans Saints,0.8
+67,c8286c88-b565-46d8-9afc-c20f6df77c06,Breece,Hall,48.7,108.6004814,RB18,RB,NY Jets,-18.3
+68,0dfe35fd-33f6-446a-8370-9d93910ab150,Michael,Carter,141.3,108.5442614,RB44,RB,NY Jets,73.3
+69,82cf78e8-a308-4394-8788-e4dea7f10430,Travis,Etienne,50.7,108.3865134,RB19,RB,Jacksonville Jaguars,-18.3
+70,63586d56-48eb-4c0a-898a-964775420023,Elijah,Moore,67.6,108.1478538,WR32,WR,NY Jets,-2.4
+71,7d152585-7ea8-41e6-87fb-8f149f3a18fa,Damien,Harris,95.9,106.7867025,RB31,RB,New England Patriots,24.9
+72,1c31065d-af90-48ce-98cd-e687329cc7a0,Jameson,Williams,115.4,105.5275987,WR55,WR,Detroit Lions,43.4
+73,fde04e99-8c3e-46e1-8540-2e1d83e5dce3,Kyle,Pitts,31.7,104.5067667,TE3,TE,Atlanta Falcons,-41.3
+74,8dda67e5-1af0-4b27-ac58-b02ca41d87bf,Tom,Brady,78.5,104.406006,QB9,QB,Tampa Bay Buccaneers,4.5
+75,1cfe4063-9e32-4be7-8619-6b492a501d08,Sony,Michel,205.9,104.1650466,RB61,RB,Miami Dolphins,130.9
+76,a209bb00-40a4-435b-b879-9235bc122823,Pat,Freiermuth,124.7,103.9926786,TE12,TE,Pittsburgh Steelers,48.7
+77,715fd9c0-eb4b-494a-ac9f-d5c53579db72,Christian,McCaffrey,3.2,100.4254349,RB2,RB,Carolina Panthers,-73.8
+78,0cc30377-88da-4b7a-bdc5-7b72e2fc0f00,Chase,Claypool,106.1,99.1908246,WR51,WR,Pittsburgh Steelers,28.1
+79,9b2b05ca-01b4-4dca-aae3-c3805ff4d55d,J.K.,Dobbins,57,98.29632137,RB21,RB,Baltimore Ravens,-22
+80,8512cb8c-8a41-452e-9c09-2b7881473c51,Noah,Fant,170.4,97.15475099,TE21,TE,Seattle Seahawks,90.4
+81,8275d1d3-9c8c-433a-9734-914fe3df4c7f,Miles,Sanders,80.4,95.64640643,RB27,RB,Philadelphia Eagles,-0.6
+82,ee69ff40-840c-41a5-a0d4-df9e34c0e554,Mitchell,Trubisky,215.1,94.197939,QB31,QB,Pittsburgh Steelers,133.1
+83,5e7117ed-0900-4ad1-ac49-c81b9e0d270e,Laviska,Shenault,202.3,92.97984596,WR89,WR,Jacksonville Jaguars,119.3
+84,3554433b-dccc-453c-97ca-a0122d410db6,Brandon,Aiyuk,78.8,92.2641766,WR39,WR,San Francisco 49ers,-5.2
+85,b771553e-96bf-40f8-8ef6-1d54a9d973c9,James,Cook,108.5,91.95335533,RB34,RB,Buffalo Bills,23.5
+86,e160003b-5fe7-4f18-8001-d6f0cb046be1,Darrel,Williams,171.1,91.12588333,RB53,RB,Arizona Cardinals,85.1
+87,3dc764fc-d118-4e7e-a9bd-28fd2eae95c1,Amon-Ra,St. Brown,70.2,89.72472848,WR34,WR,Detroit Lions,-16.8
+88,e8337714-ca74-40e8-ba6e-e224b065519e,George,Kittle,48.2,88.7909499,TE5,TE,San Francisco 49ers,-39.8
+89,c40c5898-0a51-4e21-9ad5-069ace88998f,T.J.,Hockenson,83.7,84.58024351,TE7,TE,Detroit Lions,-5.3
+90,73caefce-7dbd-4e74-957b-ba83a3e3e7f5,Skyy,Moore,85.6,80.88964221,WR41,WR,Kansas City Chiefs,-4.4
+91,187c2005-ea96-4d79-8f0c-74ff330c6722,Ryan,Tannehill,180.6,71.790294,QB24,QB,Tennessee Titans,89.6
+92,608395a4-1901-4b80-86d7-996014553c1a,Matt,Ryan,165.3,69.448476,QB21,QB,Indianapolis Colts,73.3
+93,c8eced77-b09d-4d8f-9205-29c2f4a25368,Brandin,Cooks,57.8,69.39805932,WR29,WR,Houston Texans,-35.2
+94,001c348c-bec8-46d6-82fd-917522ca6d6b,John,Metchie,187.2,69.13160132,WR83,WR,Houston Texans,93.2
+95,f72d3197-cf49-470d-bcfc-20ad464e10e3,A.J.,Dillon,74.9,67.7825547,RB25,RB,Green Bay Packers,-20.1
+96,b3169143-5c20-4fae-a04a-b508a63c9495,Tony,Pollard,90.5,66.4892452,RB29,RB,Dallas Cowboys,-5.5
+97,1e284465-7739-47d0-be69-93e709456858,Mike,Gesicki,130.2,65.2409852,TE13,TE,Miami Dolphins,33.2
+98,b37c69fc-cb99-4749-9177-9d20bb347acc,Mecole,Hardman,124.4,64.5516112,WR58,WR,Kansas City Chiefs,26.4
+99,8e3c7545-106d-45b2-8069-f975193390c3,Clyde,Edwards-Helaire,77.4,61.4447892,RB26,RB,Kansas City Chiefs,-21.6
+100,6de13661-21c7-4797-bcff-28fec8acca98,Russell,Gage,89.2,60.9921292,WR43,WR,Tampa Bay Buccaneers,-10.8
+101,9dff7e14-719a-417f-a067-a35510cbef92,Saquon,Barkley,26.3,59.87894132,RB13,RB,NY Giants,-74.7
+102,44786cc3-94ea-4c7c-a6fb-069510ed54bb,Josh,Palmer,161.7,56.4257632,WR73,WR,Los Angeles Chargers,59.7
+103,caf3a993-fa92-4f0c-8163-c5076693b070,Chuba,Hubbard,215,54.74878727,RB69,RB,Carolina Panthers,112
+104,7860408b-cdf1-4109-9833-4f52d7fab416,James,Robinson,162.6,54.70433927,RB49,RB,Jacksonville Jaguars,58.6
+105,38127ce3-7fff-4271-83f2-f4e21cdc33b9,Calvin,Ridley,216,53.99811067,WR153,WR,Atlanta Falcons,111
+106,642b08da-ea00-48a0-a742-962920fa4466,Garrett,Wilson,99.6,53.61748527,WR47,WR,NY Jets,-6.4
+107,b33b1cbb-3d2c-466e-b423-400a3d62b37e,Chris,Olave,97.4,53.12056727,WR46,WR,New Orleans Saints,-9.6
+108,6498000e-b8d2-49e6-b327-ebec7ad816e7,Hunter,Henry,154.9,53.09970267,TE19,TE,New England Patriots,46.9
+109,56bda0f4-4bc7-40c8-9979-fcda5d31dba4,DeAndre,Hopkins,75.6,52.5131052,WR38,WR,Arizona Cardinals,-33.4
+110,434f74e0-5ac4-4439-84bd-83a7c43162b6,Corey,Davis,156.4,52.27629327,WR70,WR,NY Jets,46.4
+111,a40bc6ed-7dd6-4490-af01-98e87ae7a372,Zack,Moss,215.9,51.8422552,RB94,RB,Buffalo Bills,104.9
+112,365a5b14-a2f3-45eb-8f91-4c989f2bb039,Trey,Lance,91.7,51.813312,QB11,QB,San Francisco 49ers,-20.3
+113,6f6e85b9-4054-4207-b838-f52732cf8bd6,Robert,Woods,104.7,51.0822327,WR50,WR,Tennessee Titans,-8.3
+114,d1889c23-c9ab-497c-b269-afab9aee3fb2,Derek,Carr,108.4,50.279796,QB14,QB,Las Vegas Raiders,-5.6
+115,84bd4702-cdd6-4049-a61d-c8058d8ed2e9,Courtland,Sutton,41.6,50.2745687,WR20,WR,Denver Broncos,-73.4
+116,0a366caa-62a9-488b-9253-0bbc9770023e,Tyquan,Thornton,215.2,49.71321067,WR109,WR,New England Patriots,99.2
+117,797500e2-d6bc-45d3-9f1d-2fada115afe0,Van,Jefferson,140,49.28911944,WR64,WR,Los Angeles Rams,23
+118,7fce62b6-df57-4a75-8790-70b5254d60e2,Wan'Dale,Robinson,182.4,48.2533762,WR80,WR,NY Giants,64.4
+119,ad304b49-90e0-4ae5-b4eb-3d2e1f02c0d2,Tua,Tagovailoa,134.6,48.166899,QB18,QB,Miami Dolphins,15.6
+120,ea9d9c68-4ddf-4501-b4f5-e6f8be4034b9,George,Pickens,156.9,48.12632962,WR71,WR,Pittsburgh Steelers,36.9
+121,85f439db-fe5d-4900-a0ee-30c02a452e9f,Cole,Kmet,146.9,46.91015867,TE17,TE,Chicago Bears,25.9
+122,4980eaec-3ec0-4041-8221-0e56bde98bda,Ronald,Jones,129.1,46.0112792,RB41,RB,Kansas City Chiefs,7.1
+123,06ab07a8-68c7-4a0e-99cb-ed6723591584,Dawson,Knox,100.2,45.16120562,TE9,TE,Buffalo Bills,-22.8
+124,4685a80c-a123-4a30-83bf-3bb44a502e9f,Drake,London,68.5,44.85911467,WR33,WR,Atlanta Falcons,-55.5
+125,0f81acce-4934-4dca-844b-d85bbbc2e430,Chase,Edmonds,109.7,43.49354362,RB35,RB,Miami Dolphins,-15.3
+126,e34e7b64-cbfe-4ac4-af38-9cd65ef6a4e5,Rondale,Moore,118.3,42.74366962,WR56,WR,Arizona Cardinals,-7.7
+127,6cdd154e-0d4a-478f-a51b-37ace50eadb3,Julius,Chestnut,216,41.1299467,RB98,RB,Tennessee Titans,89
+128,094c894e-d839-43ea-bb3a-3db3a9bad8a9,Cordarrelle,Patterson,92.1,40.86581867,RB30,RB,Atlanta Falcons,-35.9
+129,d7c817ad-4ca5-47c5-a458-65f1d441e3fd,Austin,Hooper,201.2,39.8387587,TE27,TE,Tennessee Titans,72.2
+130,d0bc7edc-bddc-4107-9d8b-e23acffbcd35,Christian,Watson,107.2,39.8099067,WR52,WR,Green Bay Packers,-22.8
+131,cb618523-b22c-40d6-825c-a0ced8339239,Tyrion,Davis-Price,165.6,38.37004162,RB50,RB,San Francisco 49ers,34.6
+132,8a3572ad-6dd9-41a8-b10a-9e3a08c51a0a,Alec,Pierce,159.5,37.35117362,WR72,WR,Indianapolis Colts,27.5
+133,73262cfc-d608-41ec-9e7c-d943b005ed6d,K.J.,Osborn,151.7,37.04602362,WR68,WR,Minnesota Vikings,18.7
+134,4fa812b0-6025-4be1-8d18-c7ffd4e809db,Treylon,Burks,72.2,36.7389787,WR36,WR,Tennessee Titans,-61.8
+135,99520aa3-7f8b-4f6d-b9ee-20e5d93a293a,Jerry,Jeudy,41.5,36.1923787,WR19,WR,Denver Broncos,-93.5
+136,e9eddef5-97d8-4bb1-82a6-ee01fad8eb2a,Jahan,Dotson,143.8,36.12049849,WR65,WR,Washington Commanders,7.8
+137,2e5f5210-fe46-43d8-96be-59ee217dcef7,Kendrick,Bourne,193.2,35.99128467,WR85,WR,New England Patriots,56.2
+138,d59b3350-b448-4295-b4cf-dfa6924b7c65,Kareem,Hunt,97,35.60137362,RB32,RB,Cleveland Browns,-41
+139,c526e0f8-989f-42fd-8371-6f8d0ef019c2,Evan,Engram,184.8,35.18742249,TE24,TE,Jacksonville Jaguars,45.8
+140,8a859a75-4198-4e3a-854b-784dce6b5c12,Rashaad,Penny,117.2,34.68617267,RB37,RB,Seattle Seahawks,-22.8
+141,7c1ae2b9-d7d0-403a-8e4d-11491efe3c71,Melvin,Gordon,110.8,34.2757387,RB36,RB,Denver Broncos,-30.2
+142,441a06ff-6630-4ca0-b034-1c9549538ea0,Terrace,Marshall,215,34.11201449,WR107,WR,Carolina Panthers,73
+143,2ea3b599-18c1-4dda-a833-1f23c73cf5c2,Jamaal,Williams,180,33.66296449,RB54,RB,Detroit Lions,37
+144,8d03fa8e-237f-400f-9ac0-af377d8a25d2,Kenyan,Drake,212.5,33.35886162,RB64,RB,Las Vegas Raiders,68.5
+145,4e5411e9-68dc-400f-beeb-968e8a7e3cf2,Alexander,Mattison,123.8,33.08870962,RB39,RB,Minnesota Vikings,-21.2
+146,ced268be-84de-4700-9ba4-40645752b278,Myles,Gaskin,215.9,32.96554962,RB89,RB,Miami Dolphins,69.9
+147,457cee57-e888-423f-9149-93c48c357a4a,Michael,Gallup,113.5,31.2951845,WR54,WR,Dallas Cowboys,-33.5
+148,3aaf419b-21c4-46ee-a11e-9a489b673b79,Matthew,Stafford,92.5,30.854682,QB12,QB,Los Angeles Rams,-55.5
+149,a85826fc-9b78-466c-8f60-cdb615c1c709,Trey,Sermon,215.1,30.6962285,RB70,RB,San Francisco 49ers,66.1
+150,154cdf35-e606-46c6-9fb8-840265bacc03,James,Washington,204.6,29.2895945,WR92,WR,Dallas Cowboys,54.6
+151,b642a6fb-b8d2-4ee3-8456-39a2c64d2364,D'Onta,Foreman,198.5,27.7279385,RB59,RB,Carolina Panthers,47.5
+152,46aab98a-7d30-4ba0-8576-7902eb89b2d5,Tyler,Conklin,215.9,27.3535785,TE43,TE,NY Jets,63.9
+153,f65d1b9b-c5b5-436a-923f-cdb0a0357d9c,Zay,Jones,211.4,27.0629285,WR96,WR,Jacksonville Jaguars,58.4
+154,c170afa4-4767-405c-b005-4498480e7066,Darren,Waller,41.1,26.8691005,TE4,TE,Las Vegas Raiders,-112.9
+155,5e26c57d-42dd-406f-b53d-91095594e37a,Brian,Robinson,192.4,25.5727805,RB57,RB,Washington Commanders,37.4
+156,2b6c0a54-bab3-4b69-b2f9-2dc2a9e30982,Rachaad,White,131.8,25.5727805,RB42,RB,Tampa Bay Buccaneers,-24.2
+157,01fd583b-8443-4655-a727-6a5b28e7621a,Bryan,Edwards,208.3,25.1344285,WR94,WR,Atlanta Falcons,51.3
+158,f6bddcbd-f697-4bde-a65a-d2b6eb83797b,Marquez,Callaway,215.5,25.0542385,WR111,WR,New Orleans Saints,57.5
+159,5b4b97b6-1e40-45ce-880d-6c6324cd5e78,JuJu,Smith-Schuster,55.9,24.4656825,WR27,WR,Kansas City Chiefs,-103.1
+160,198686d1-f9ea-4594-9be0-7fdc6a724d85,Geno,Smith,215.9,24.310683,QB43,QB,Seattle Seahawks,55.9
+161,e86c1ded-aef1-41f4-bbfe-c3a04d4b47c4,Tyler,Higbee,162.9,23.7592225,TE20,TE,Los Angeles Rams,1.9
+162,80427c89-ba52-4081-9cbf-a11aa025ee74,Dyami,Brown,216,22.9652105,WR145,WR,Washington Commanders,54
+163,982ba4ec-f6d4-4fff-8f66-054ef4715196,Duke,Johnson,216,22.8067645,RB98,RB,Buffalo Bills,53
+164,1dcdafa9-9c27-4326-8c2b-055534c924b3,Allen,Lazard,95.6,22.6485985,WR45,WR,Green Bay Packers,-68.4
+165,6d985cdb-03f3-4365-ae50-dbd6a121540f,Carson,Wentz,202,21.3084765,QB27,QB,Washington Commanders,37
+166,035c99ef-ed2a-4fcd-aa6f-e752f4565695,Jakobi,Meyers,135,21.2749633,WR62,WR,New England Patriots,-31
+167,d8598cac-2435-455d-8228-69596f8815f3,Sam,Darnold,215.8,20.5190778,QB37,QB,Carolina Panthers,48.8
+168,d330fe75-a322-48a6-8405-b6ea91bfa1f4,Rashod,Bateman,57,20.4642465,WR28,WR,Baltimore Ravens,-111
+169,37006fee-0ca2-4b77-a6e8-8a9de3e2cec1,Sterling,Shepard,212.6,19.96315468,WR97,WR,NY Giants,43.6
+170,bd47b6e7-f8ff-4fb5-b866-b6294742f31a,David,Johnson,-,19.77020168,,RB,Houston Texans,#VALUE!
+171,271a93c2-3775-4e4d-bff3-f22cbe7d4e93,Trey,McBride,214.4,19.5919505,TE32,TE,Arizona Cardinals,43.4
+172,41f9b2df-6fc9-45b3-bb57-c1eb83181332,Jalen,Reagor,216,19.5889545,WR138,WR,Philadelphia Eagles,44
+173,55701da9-c8f9-4686-bc96-916da04ad7af,DeVante,Parker,132.7,19.5744325,WR61,WR,New England Patriots,-40.3
+174,d2b0f785-a66a-4a9e-a4a7-981c410ff57f,Rhamondre,Stevenson,121.1,18.9757917,RB38,RB,New England Patriots,-52.9
+175,1d6861cd-be8b-410c-a955-ffb5b4b761a6,D.J.,Chark,148.8,18.7078905,WR67,WR,Detroit Lions,-26.2
+176,b136d3c5-a1ab-440d-9278-854f6a88e660,Sammy,Watkins,182.9,18.6797485,WR81,WR,Green Bay Packers,6.9
+177,762e67cf-43b5-4e89-8bd6-b3574422a611,D'Wayne,Eskridge,216,17.5136725,WR145,WR,Seattle Seahawks,39
+178,63011cb0-777f-4a47-bf03-417d579b6b0d,Devontae,Booker,-,17.38712368,,RB,,#VALUE!
+179,57b58b3c-832f-4981-9461-b521b67c836e,Nelson,Agholor,215.8,16.8230537,WR116,WR,New England Patriots,36.8
+180,b7fb9920-b031-4007-b4f9-15d6413527d1,Darrell,Henderson,145.5,16.6699875,RB46,RB,Los Angeles Rams,-34.5
+181,231dc1e5-aad9-4b0c-8c34-04b5e023c086,Julio,Jones,195,16.22224368,WR86,WR,,14
+182,52eebf9e-e588-43b8-a27f-765ff03fa77c,Ty,Montgomery,-,15.6786045,,WR,New England Patriots,#VALUE!
+183,e3b379c9-ba35-46db-915e-3d0962932112,T.J.,Yeldon,-,15.56024968,,RB,,#VALUE!
+184,02d5920d-8bfe-443c-9fdd-3478be323b5e,Curtis,Samuel,174.6,15.4468605,WR78,WR,Washington Commanders,-9.4
+185,84fdc0c2-e34b-4ef6-88cb-0f29ab1dae18,Nyheim,Hines,142,15.3684753,RB45,RB,Indianapolis Colts,-43
+186,ddc64115-e017-41e7-bcf4-ea95fc8f8839,Ameer,Abdullah,-,15.0210295,,RB,Las Vegas Raiders,#VALUE!
+187,53e0b811-7f47-40e9-8b6b-91311efd69b7,Allen,Robinson,48.7,14.5290645,WR24,WR,Los Angeles Rams,-138.3
+188,16c8ca1c-ab73-40fa-942a-0181ecebc784,David,Njoku,150.4,14.4188945,TE18,TE,Cleveland Browns,-37.6
+189,45afa77f-8510-4aa0-b15c-b705a7dec949,Ke'Shawn,Vaughn,215.6,14.3133305,RB76,RB,Tampa Bay Buccaneers,26.6
+190,24ad78d6-6cfe-440b-9714-2bd77f38e41c,Boston,Scott,215.9,14.1283845,RB87,RB,Philadelphia Eagles,25.9
+191,e6d2bbaa-71d1-4f1b-9745-e92d457aba7d,Jonnu,Smith,215.2,14.0120485,TE33,TE,New England Patriots,24.2
+192,a942eb67-718c-4ad9-8b5e-99ff60a94253,Giovani,Bernard,216,13.7031345,RB109,RB,Tampa Bay Buccaneers,24
+193,c3e07cd0-8268-43d4-a914-68975578f1d9,Jordan,Howard,-,13.5651837,,RB,Philadelphia Eagles,#VALUE!
+194,aad61bd2-f7dc-4181-8b48-c46ad9495cfc,Jarvis,Landry,128.5,13.4472685,WR60,WR,New Orleans Saints,-65.5
+195,9479a38d-5400-43b0-9b1d-ce6fa16289a4,Gabriel,Davis,51.8,13.2302035,WR25,WR,Buffalo Bills,-143.2
+196,a33f2873-a6df-4bac-bd35-c59902688e07,Chris,Conley,-,13.1459151,,WR,Houston Texans,#VALUE!
+197,6d53f0cf-d4cf-4fe5-b5f9-60585dfcb126,Tutu,Atwell,215.8,12.9894535,WR121,WR,Los Angeles Rams,18.8
+198,e92ccca1-9fbe-43e0-8164-055ac68c01e7,Anthony,Miller,-,12.7235871,,WR,Pittsburgh Steelers,#VALUE!
+199,7ca7eb81-2631-408f-a905-24004613adfe,Keelan,Cole,216,12.7068457,WR145,WR,NY Jets,17
+200,5ca0bd63-c97e-45be-a337-c15cbb68e288,Royce,Freeman,-,12.6875591,,RB,Houston Texans,#VALUE!
+201,01a03308-8295-4b53-8624-21a8f07c111b,Jalen,Tolbert,145.6,12.1466439,WR66,WR,Dallas Cowboys,-55.4
+202,d85685e0-9769-4366-b73d-a4242d96e7de,Kenneth,Gainwell,160.3,11.3260079,RB48,RB,Philadelphia Eagles,-41.7
+203,f31ed47b-9c24-4ac1-89c5-000c862c02f6,Jeremy,Ruckert,-,11.2958613,,TE,NY Jets,#VALUE!
+204,dfa21407-6029-4f82-b27f-b50e0f55e236,Greg,Dulcich,215.5,10.8598153,TE34,TE,Denver Broncos,11.5
+205,9cbe9c5d-4723-4049-80db-0c2b9712b1e9,Marcus,Mariota,211.7,10.7206866,QB29,QB,Atlanta Falcons,6.7
+206,67646aeb-2ee8-4bcd-8e56-0f92372905ea,Robby,Anderson,168.2,10.3763041,WR74,WR,Carolina Panthers,-37.8
+207,1281353d-7730-4e35-911a-9ffe172f55f9,Kenny,Golladay,119.6,10.3499125,WR57,WR,NY Giants,-87.4
+208,1378a6fa-8e15-4230-9b17-570c81a00241,Kadarius,Toney,100,10.2349045,WR48,WR,NY Giants,-108
+209,745849d8-8f74-4924-9f0a-e0d730e8f692,Jamison,Crowder,135.4,10.1845857,WR63,WR,Buffalo Bills,-73.6
+210,ebad1e04-5c11-421b-a057-2c5c8347d1d0,Kalif,Raymond,216,9.999650497,WR153,WR,Detroit Lions,6
+211,20f0ca69-b8ef-41a9-8744-552c8bf7d6b1,Adam,Thielen,74.3,9.964498497,WR37,WR,Minnesota Vikings,-136.7
+212,9585f114-7c13-4990-af67-5eae1b3b007b,Mike,Davis,216,9.850657297,RB96,RB,Baltimore Ravens,4
+220,eb9c0f0f-660e-4b82-8766-8265ec9a43a0,Chris,Carson,215.7,9.819332097,RB77,RB,Seattle Seahawks,-4.3
+221,84f2bad0-f760-4ff4-be20-de3e64a699c2,Tavon,Austin,216,9.803332097,WR153,WR,Jacksonville Jaguars,-5
+222,2a0c82c0-cd74-49fd-87b4-edbd77bd005f,Marvin,Jones,172.2,9.784955097,WR75,WR,Jacksonville Jaguars,-49.8
+223,7ec8bba7-c8a5-484d-af71-1275fc75b3d1,Blaine,Gabbert,215.9,9.698457,QB41,QB,Tampa Bay Buccaneers,-7.1
+224,a235e57b-7692-49a7-a4b2-231d2f4e6f83,Gerald,Everett,171.2,9.652496497,TE22,TE,Los Angeles Chargers,-52.8
+225,1b058ba1-3362-41df-860d-69737b0898f2,Justin,Fields,134.3,9.470475,QB17,QB,Chicago Bears,-90.7
+226,d09d3d1c-7471-4e45-9e54-b6acc10a50cd,Jared,Goff,195.2,9.36942,QB26,QB,Detroit Lions,-30.8
+227,7a9e3b71-706a-470e-a4c7-ddd9bb10ce2c,Velus,Jones,213.4,9.347579897,WR100,WR,Chicago Bears,-13.6
+228,ffb0e66a-044f-4c27-a454-a48dff2fad16,Tyler,Kroft,-,9.327363497,,TE,NY Jets,#VALUE!
+229,5bf93ebd-868f-4de5-b7fd-116ecd2206cd,Anthony,Schwartz,215.6,9.254127297,WR115,WR,Cleveland Browns,-13.4
+230,04ab5f2d-0acf-428f-b102-ad2aa63e01be,Wayne,Gallman,-,9.241740097,,RB,Minnesota Vikings,#VALUE!
+231,7c92a9cf-01f4-465e-b9c4-e35e986d9590,Kerryon,Johnson,-,9.168538497,,RB,,#VALUE!
+232,f06df8c6-023c-4823-ac71-71d0de8789ce,Jared,Cook,215.7,8.927318497,TE37,TE,Los Angeles Chargers,-16.3
+233,a83a0984-1fbc-4a37-8c3b-58adde4bfb6e,Kenny,Pickett,212.9,8.9194071,QB30,QB,Pittsburgh Steelers,-20.1
+234,a99992b4-6531-447b-a7c0-e48cf0920232,Zach,Wilson,165.9,8.911212,QB22,QB,NY Jets,-68.1
+235,54628215-aa83-4769-8da7-84de7e48e589,Dante,Pettis,-,8.831320497,,WR,NY Giants,#VALUE!
+236,2b207d78-ac4c-457b-b1d9-ae0c29d37b5a,Benny,Snell,216,8.595240497,RB98,RB,Pittsburgh Steelers,-20
+237,7591b569-eda9-4cc4-bbac-474e23318e6d,Auden,Tate,216,8.507642497,WR141,WR,Atlanta Falcons,-21
+238,b572b476-e027-48ac-866b-c8f0f667d603,Devin,Funchess,-,8.445594097,,WR,,#VALUE!
+239,77b662e5-6110-4bb5-9176-4c377982aebe,Robert,Tonyan,138.5,8.314154497,TE14,TE,Green Bay Packers,-100.5
+240,58cb204f-39a6-4c4c-be65-eba7bdc6f70a,John,Ross,-,8.181189297,,WR,NY Giants,#VALUE!
+241,96a46484-aaad-43f5-9c45-d43c37b3de7c,Tevin,Coleman,-,8.058164497,,RB,NY Jets,#VALUE!
+242,8339f3b3-83e4-42e9-8585-9abcbb87d1fc,Antonio,Brown,216,7.981589097,WR136,WR,,-26
+243,f7cabe74-e3e3-43a6-9f40-e14e5da064f1,Ty,Johnson,-,7.865357697,,RB,NY Jets,#VALUE!
+244,72a21751-0a2f-48be-99ba-17220da1c3f2,Tommy,Tremble,215.9,7.768612497,TE47,TE,Carolina Panthers,-28.1
+245,62c7ebe3-7169-4352-b9e9-53bb7edf78c4,Danny,Gray,214.5,7.659914697,WR103,WR,San Francisco 49ers,-30.5
+246,aedc1a31-fb7e-4ecc-8303-5fc9328e2058,Justice,Hill,-,7.468817297,,RB,Baltimore Ravens,#VALUE!
+247,1f71007b-4e5b-4af9-9ded-1eb6348a2f21,David,Bell,153.3,7.453526097,WR69,WR,Cleveland Browns,-93.7
+248,21e0b083-749d-4624-b09d-0dabc82d737a,Devin,Duvernay,203.1,7.391747097,WR91,WR,Baltimore Ravens,-44.9
+249,c11103e3-0274-40c7-8577-cfdf11eed5d7,Raheem,Mostert,186.9,7.276082097,RB55,RB,Miami Dolphins,-62.1
+250,4949da74-661c-4e1c-9505-0a56c351a028,Ryan,Griffin,-,7.2459831,,TE,Chicago Bears,#VALUE!
+251,c45f6fbf-9e3d-434c-8963-7f1a29036aa9,Ryan,Griffin,-,7.2459831,,QB,Tampa Bay Buccaneers,#VALUE!
+252,50e46817-ff65-4582-966f-b37dcea8644b,Cam,Akers,44,7.225464297,RB17,RB,Los Angeles Rams,-208
+253,c81cbded-0be2-4a31-ba29-d5a5dc1f6115,Hayden,Hurst,181.9,7.032007297,TE23,TE,Cincinnati Bengals,-71.1
+254,382cadc3-3f94-42a1-9332-2886f852328e,Braxton,Berrios,215.6,7.028961097,WR113,WR,NY Jets,-38.4
+255,95c91047-89f1-4c02-ba27-a383034ac8c0,Jelani,Woods,215.8,6.989877297,TE41,TE,Indianapolis Colts,-39.2
+256,e074fafb-0ab0-4137-9962-15bbdb2c3a8f,Jequez,Ezzard,-,6.977451897,,WR,Washington Commanders,#VALUE!
+257,b5cb37fa-6383-4575-a29e-262f4278dee1,Darrynton,Evans,-,6.919021497,,RB,Chicago Bears,#VALUE!
+258,e19b2bec-7575-48ea-8e7a-c74e22318a7a,Quez,Watkins,215.1,6.899612097,WR108,WR,Philadelphia Eagles,-42.9
+259,2b2ecca0-baa1-4425-bc29-dc4268b84dc5,Marlon,Mack,195.7,6.738968097,RB58,RB,Houston Texans,-63.3
+260,6cff0628-7f57-40ae-90bf-c8209770e9ef,Brandon,Allen,-,6.645468,,QB,Cincinnati Bengals,#VALUE!
+261,7eb26392-b943-4a52-aaf4-177dd25bfff4,Nick,Mullens,216,6.645468,QB48,QB,Las Vegas Raiders,-45
+262,1fc93ee0-f436-461d-8418-d334faabc926,Mason,Rudolph,-,6.645468,,QB,Pittsburgh Steelers,#VALUE!
+263,af723aab-5bf8-48a1-b788-e49e8e120cbe,Adam,Trautman,215.7,6.643585497,TE39,TE,New Orleans Saints,-47.3
+264,b01de3aa-4248-4999-b2fc-4ab09a2aa7a8,Irv,Smith,141.6,6.628873097,TE15,TE,Minnesota Vikings,-122.4
+265,a6e528c7-56bb-46f1-a6a7-4ff499a927e5,Jalen,Guyton,213.7,6.559219497,WR101,WR,Los Angeles Chargers,-51.3
+266,36d2302b-75c3-4a9b-885e-fea8c9b25fc5,Ryquell,Armstead,216,6.494760497,RB109,RB,Jacksonville Jaguars,-50
+267,58da7d55-6b18-48b2-976e-7d8d3e47b31d,Lynn,Bowden,216,6.488456897,WR165,WR,Miami Dolphins,-51
+268,3bd85b9d-28c1-4d74-b324-63fdf47d9c9e,Mark,Ingram,211.5,6.483172297,RB63,RB,New Orleans Saints,-56.5
+269,e0b8e620-d1f8-4d6d-be60-65e807b3ac42,Dameon,Pierce,128.7,6.460919297,RB40,RB,Houston Texans,-140.3
+270,414d18bc-5200-4261-bd36-bf043043e753,Pierre,Strong,215.8,6.460919297,RB79,RB,New England Patriots,-54.2
+271,425460ed-625a-4f5c-a749-93ac0191d5de,Zamir,White,210,6.460919297,RB62,RB,Las Vegas Raiders,-61
+272,3c7ea7ea-e7b3-41ef-a27f-bcd49e1f8684,Hassan,Haskins,205.5,6.460919297,RB60,RB,Tennessee Titans,-66.5
+273,2e6ac31d-8f96-42c7-8ec9-b3daa30ead93,Snoop,Conner,215.8,6.431898497,RB80,RB,Jacksonville Jaguars,-57.2
+274,aa0dd091-e1e4-4273-b05a-09ea253504d6,DeeJay,Dallas,-,6.363404897,,RB,Seattle Seahawks,#VALUE!
+275,48f1826e-aefe-450d-8bac-15930cf27da0,Isaiah,Spiller,138.4,6.358125097,RB43,RB,Los Angeles Chargers,-136.6
+276,ba4a9091-8649-4f05-bb2a-44d927101698,Darius,Slayton,215.8,6.298835097,WR120,WR,NY Giants,-60.2
+277,a28928f6-3746-443d-a010-39f62a23db06,C.J.,Uzomah,212.3,6.195505697,TE29,TE,NY Jets,-64.7
+278,99f29927-7296-46db-a05c-85edba9d8b66,Raymond,Calais,-,6.074443497,,RB,Los Angeles Rams,#VALUE!
+279,e674013f-f39f-438e-9f93-87602ed8d829,Mac,Jones,188.6,6.0540156,QB25,QB,New England Patriots,-90.4
+280,f8ba6bcf-4c50-48d6-84f7-8a3b46be277f,Jarrett,Stidham,-,6.0437781,,QB,New England Patriots,#VALUE!
+281,8b2b35de-9167-46b7-ad8f-4d46769363ef,Corey,Coleman,-,6.033089697,,WR,Kansas City Chiefs,#VALUE!
+282,ed6f8f5c-0775-470b-81ad-9b21f5e9beda,Zach,Pascal,216,6.018022497,WR145,WR,Philadelphia Eagles,-66
+283,b157d033-f89d-4cce-a7f7-1b316ae5fd45,Josh,Oliver,-,6.010525297,,TE,Baltimore Ravens,#VALUE!
+284,14331daf-0a1f-41ea-b0b6-efbdb54ce7ec,Tyler,Goodson,216,5.993553897,RB116,RB,Green Bay Packers,-68
+285,175cfad4-4aff-4c91-b520-9b351be50733,Sincere,McCormick,-,5.993553897,,RB,Seattle Seahawks,#VALUE!
+286,d53b7adf-c030-452c-8f61-a5a6a23352a2,Jerrion,Ealy,-,5.993553897,,RB,Kansas City Chiefs,#VALUE!
+287,e9e24c49-739b-4f27-befd-56710dec9684,Zach,Ertz,109.9,5.974240297,TE10,TE,Arizona Cardinals,-177.1
+288,117280e0-5d44-4b8d-9792-b4c80832dba0,Tajae,Sharpe,-,5.864784897,,WR,Atlanta Falcons,#VALUE!
+289,af4e80dd-cb55-4e34-85ec-4f8d62e83d60,Joshua,Kelley,216,5.710409497,RB104,RB,Los Angeles Chargers,-73
+290,4499b9b9-f840-4600-91a9-edd64ad4074b,Breshad,Perriman,216,5.707189097,WR141,WR,Tampa Bay Buccaneers,-74
+291,d20dc2c5-8999-4eda-bf3f-a5b0172a5613,Josiah,Deguara,216,5.559609097,TE58,TE,Green Bay Packers,-75
+292,2aeb77c2-0c93-4dec-9fca-5159e9658d7d,Marquez,Valdes-Scantling,100.4,5.542733497,WR49,WR,Kansas City Chiefs,-191.6
+293,4c610c3e-364f-4780-b72a-8a3e77af2c66,Noah,Gray,216,5.495239497,TE52,TE,Kansas City Chiefs,-77
+294,34a01151-40b4-46c3-a76a-81c4c41908c8,Daniel,Jones,169.8,5.4940146,QB23,QB,NY Giants,-124.2
+295,c1b46da3-7ffd-4355-a905-8d379c75816e,Zander,Horvath,-,5.473612897,,RB,Los Angeles Chargers,#VALUE!
+296,505a131f-6089-45b2-a226-1b9f26ad64ac,Laquon,Treadwell,216,5.463201897,WR165,WR,Jacksonville Jaguars,-80
+297,95dd6f00-ff2d-4d97-8dde-83fa1e05258b,Donovan,Peoples-Jones,181.1,5.440084897,WR79,WR,Cleveland Browns,-115.9
+298,58f184bb-5d73-4233-a69e-709da45b0ff1,Josh,Gordon,215.9,5.401038497,WR128,WR,Kansas City Chiefs,-82.1
+299,d3f7a8b5-225f-481a-9a6f-98834f609d72,Samaje,Perine,215.3,5.383165097,RB72,RB,Cincinnati Bengals,-83.7
+300,3b6065f5-3834-4879-8e54-67b8aef5102b,Amari,Rodgers,214.7,5.336949897,WR106,WR,Green Bay Packers,-85.3
+301,592e3878-d3ff-4425-84c8-36681473b1d5,Emmanuel,Sanders,215.8,5.330352097,WR116,WR,Buffalo Bills,-85.2
+302,8d0cf024-5ee8-4c8c-bf2f-0615303e8688,D'Ernest,Johnson,212.6,5.294626497,RB65,RB,Cleveland Browns,-89.4
+303,370de79d-6d69-439e-b718-4b72cc0f5658,Gus,Edwards,169.1,5.030941497,RB52,RB,Baltimore Ravens,-133.9
+304,e50962c0-1587-44be-b307-0fd6dfd41609,Nico,Collins,201,5.002561097,WR88,WR,Houston Texans,-103
+305,22681576-37d9-4ab2-be91-04256bab76ab,Kyle,Juszczyk,-,4.987682697,,RB,San Francisco 49ers,#VALUE!
+306,933ee8b7-ba4b-4dbc-886d-3bc468026f40,J.D.,McKissic,187.2,4.959630897,RB56,RB,Washington Commanders,-118.8
+307,0a4bfa98-969c-4434-ad52-7352ca90aa44,Brandon,Bolden,-,4.912847297,,RB,Las Vegas Raiders,#VALUE!
+308,4a42a8d3-80c3-42d9-a3dc-72867f765ea2,Davis,Mills,206.7,4.892253,QB28,QB,Houston Texans,-101.3
+309,7af53bd2-e8d6-4ba9-890d-1ee7b2c92380,Tyler,Badie,215.9,4.891492497,RB89,RB,Baltimore Ravens,-93.1
+310,fd813c74-e20b-43b0-9268-258f1ff874fb,Jameis,Winston,157.9,4.8006579,QB20,QB,New Orleans Saints,-152.1
+311,0d4fbe26-9865-4c13-a529-4666ead2761e,Kellen,Mond,-,4.7233029,,QB,Minnesota Vikings,#VALUE!
+312,aa40a6ce-5852-4ab0-a32d-9476313f5998,Dalton,Keene,-,4.674657697,,TE,New England Patriots,#VALUE!
+313,324a279d-805d-4824-8c15-ddeb39b7fc1b,Jacob,Eason,-,4.6530099,,QB,Seattle Seahawks,#VALUE!
+314,ad3c9f06-8833-4a9c-af53-7ac469d2d899,Nick,Westbrook-Ikhine,214.5,4.650704497,WR104,WR,Tennessee Titans,-99.5
+315,cd5fe5f1-8df5-48a7-ac00-b536eb42e955,Chris,Evans,213.6,4.607844297,RB67,RB,Cincinnati Bengals,-101.4
+316,32453db9-414d-4c37-bb5c-0771b125f21e,Tre'Quan,Smith,216,4.580328297,WR138,WR,New Orleans Saints,-100
+317,f184a729-e844-4fdd-96b6-12b4943df4dd,A.J.,Green,187.5,4.532190897,WR84,WR,Arizona Cardinals,-129.5
+318,08a380fa-5f9c-425d-9995-d51cf9d22202,Kevin,Harris,216,4.473791897,RB109,RB,New England Patriots,-102
+319,d5b99732-fd94-458c-9b5d-3ee3f492b4a2,Trevor,Lawrence,147.9,4.4281875,QB19,QB,Jacksonville Jaguars,-171.1
+320,fbd528b9-57a7-4ce1-a83a-0bddd99bc7a7,Eno,Benjamin,215.9,4.237427897,RB84,RB,Arizona Cardinals,-104.1
+321,9603b103-2ba7-4a7d-8017-8a97f2aae278,Andy,Isabella,216,4.220543697,WR153,WR,Arizona Cardinals,-105
+322,a0326931-81ea-44ad-9bc1-b220d98d6efc,Jake,Luton,-,4.2186615,,QB,Jacksonville Jaguars,#VALUE!
+323,0c8ee3ae-a91b-4f74-afdd-d858fe98ca37,Tim,Patrick,125,4.197688697,WR59,WR,Denver Broncos,-198
+324,adb2fc4c-9a79-4e96-8a0e-52ce24f45253,Will,Grier,-,4.1913459,,QB,Dallas Cowboys,#VALUE!
+325,e982ddfa-fe65-4f28-8012-8ccffa4b8333,Kyren,Williams,215.7,4.181996897,RB78,RB,Los Angeles Rams,-109.3
+326,6cadd4e1-40b4-470c-a934-b496a69e803a,Taysom,Hill,196,4.170664897,TE26,TE,New Orleans Saints,-130
+327,98e159b5-9d86-4c72-99d0-175f5c39246a,Chris,Moore,-,4.148899297,,WR,Houston Texans,#VALUE!
+328,5d8d5575-438e-43cd-89b5-59f6a9073b61,Ian,Thomas,216,4.148899297,TE62,TE,Carolina Panthers,-112
+329,e449ed19-370f-42d7-b902-7b912bb2c6f4,Mack,Hollins,216,4.148899297,WR153,WR,Las Vegas Raiders,-113
+330,3e3f3588-342c-4f99-b3c1-bb2cc85f88e1,Harrison,Bryant,215.9,4.148899297,TE42,TE,Cleveland Browns,-114.1
+331,cdfc7ada-d412-4d8d-b5d2-248891de6371,Parris,Campbell,202.8,4.108147897,WR90,WR,Indianapolis Colts,-128.2
+332,8c69a86f-c0d3-4e51-b300-c17db708e07c,Jace,Sternberger,-,4.103711097,,TE,Pittsburgh Steelers,#VALUE!
+333,04281c8a-2146-4fe5-a9d5-718cefe491cf,Jermar,Jefferson,-,4.094994697,,RB,Detroit Lions,#VALUE!
+334,1f3fa737-6a32-4beb-9eae-9a9134c1148e,Drew,Lock,215.6,4.0810722,QB33,QB,Seattle Seahawks,-118.4
+335,4e4ba299-ef08-4ea7-92ed-61e4e96d734c,Tyler,Allgeier,152.6,4.079169897,RB47,RB,Atlanta Falcons,-182.4
+336,33211617-2911-45b5-8f28-12f298bc9aec,Jerome,Ford,216,4.079169897,RB109,RB,Cleveland Browns,-120
+337,9c41c51b-0c1c-4780-82ef-6ba91cfd7cff,Keaontay,Ingram,213,4.079169897,RB66,RB,Arizona Cardinals,-124
+338,bda2c49d-047a-4be8-9323-2001173675cd,Ty,Chandler,215.9,4.079169897,RB89,RB,Minnesota Vikings,-122.1
+339,9b85dfa9-836d-451d-9604-5ca16c3c5d8b,Robert,Foster,-,4.071823497,,WR,NY Giants,#VALUE!
+340,550b1f8c-95b3-4c3b-afab-04d7075a76d6,Samori,Toure,-,4.069888497,,WR,Green Bay Packers,#VALUE!
+341,149eac0f-6fd5-4e34-b2ed-3e3149f0d58d,Odell,Beckham,184,4.063087297,WR82,WR,,-157
+342,ee5451d4-a2ba-4a0f-8d2c-02880197c582,Jordan,Matthews,-,4.034227697,,TE,San Francisco 49ers,#VALUE!

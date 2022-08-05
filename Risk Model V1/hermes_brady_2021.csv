@@ -1,0 +1,86 @@
+,id,0,1,Full Name,Team,starter
+0,Lamar Jackson,0.09784317,0.90215683,Lamar Jackson,Baltimore Ravens,1
+1,Josh Allen,0.13278168,0.8672183,Josh Allen,Buffalo Bills,1
+2,Justin Herbert,0.14914411,0.8508559,Justin Herbert,Los Angeles Chargers,1
+3,Kyler Murray,0.18371302,0.816287,Kyler Murray,Arizona Cardinals,1
+4,Patrick Mahomes,0.18781775,0.81218225,Patrick Mahomes,Kansas City Chiefs,1
+5,Aaron Rodgers,0.32149786,0.67850214,Aaron Rodgers,Green Bay Packers,1
+6,Dak Prescott,0.32534635,0.67465365,Dak Prescott,Dallas Cowboys,1
+7,Matthew Stafford,0.33257145,0.66742855,Matthew Stafford,Los Angeles Rams,1
+8,Kirk Cousins,0.36217535,0.63782465,Kirk Cousins,Minnesota Vikings,1
+9,Joe Burrow,0.3852771,0.6147229,Joe Burrow,Cincinnati Bengals,1
+10,Tom Brady,0.49926567,0.5007343,Tom Brady,Tampa Bay Buccaneers,1
+11,Russell Wilson,0.6304706,0.36952943,Russell Wilson,Seattle Seahawks,1
+12,Ryan Tannehill,0.67297983,0.32702014,Ryan Tannehill,Tennessee Titans,1
+13,Ben Roethlisberger,0.7907113,0.20928875,Ben Roethlisberger,Pittsburgh Steelers,1
+14,Ryan Fitzpatrick,0.8217452,0.17825477,Ryan Fitzpatrick,Washington Commanders,1
+15,Matt Ryan,0.86332625,0.13667373,Matt Ryan,Atlanta Falcons,1
+16,Cam Newton,0.90480673,0.09519326,Cam Newton,Carolina Panthers,0
+17,Andy Dalton,0.92949975,0.07050025,Andy Dalton,Chicago Bears,1
+18,Baker Mayfield,0.9443542,0.055645794,Baker Mayfield,Cleveland Browns,1
+19,Derek Carr,0.9618755,0.038124476,Derek Carr,Las Vegas Raiders,1
+20,Carson Wentz,0.96517843,0.034821574,Carson Wentz,Indianapolis Colts,1
+21,Tua Tagovailoa,0.96650773,0.03349227,Tua Tagovailoa,Miami Dolphins,1
+22,Blaine Gabbert,0.9676718,0.03232819,Blaine Gabbert,Tampa Bay Buccaneers,0
+23,Marcus Mariota,0.9697169,0.030283084,Marcus Mariota,Las Vegas Raiders,0
+24,Chad Henne,0.9716797,0.028320288,Chad Henne,Kansas City Chiefs,0
+25,Jared Goff,0.9717195,0.028280485,Jared Goff,Detroit Lions,1
+26,Geno Smith,0.9778484,0.02215156,Geno Smith,Seattle Seahawks,0
+27,Brandon Allen,0.9778484,0.02215156,Brandon Allen,Cincinnati Bengals,0
+28,Mason Rudolph,0.9778484,0.02215156,Mason Rudolph,Pittsburgh Steelers,0
+29,Daniel Jones,0.97963876,0.02036124,Daniel Jones,New York Giants,1
+30,Cooper Rush,0.97985405,0.020145927,Cooper Rush,Dallas Cowboys,0
+31,Sam Darnold,0.98076457,0.01923542,Sam Darnold,Carolina Panthers,1
+32,Teddy Bridgewater,0.9820788,0.017921196,Teddy Bridgewater,Denver Broncos,1
+33,Jalen Hurts,0.98239297,0.017607028,Jalen Hurts,Philadelphia Eagles,1
+34,Mac Jones,0.98262143,0.01737857,Mac Jones,New England Patriots,1
+35,Garrett Gilbert,0.9846283,0.015371706,Garrett Gilbert,Washington Commanders,0
+36,Jameis Winston,0.98590463,0.014095386,Jameis Winston,New Orleans Saints,1
+37,Justin Fields,0.9860187,0.013981272,Justin Fields,Chicago Bears,0
+38,Tyrod Taylor,0.98623115,0.0137688685,Tyrod Taylor,Houston Texans,1
+39,Jimmy Garoppolo,0.9866188,0.013381166,Jimmy Garoppolo,San Francisco 49ers,1
+40,Gardner Minshew,0.9868012,0.0131987715,Gardner Minshew,Philadelphia Eagles,0
+41,John Wolford,0.9870823,0.012917724,John Wolford,Los Angeles Rams,0
+42,Case Keenum,0.9870967,0.012903287,Case Keenum,Cleveland Browns,0
+43,Zach Wilson,0.98709875,0.012901259,Zach Wilson,New York Jets,1
+44,Trevor Lawrence,0.98709875,0.012901259,Trevor Lawrence,Jacksonville Jaguars,1
+45,Jordan Love,0.98739916,0.012600863,Jordan Love,Green Bay Packers,0
+46,Kyle Allen,0.9877731,0.012226905,Kyle Allen,Washington Commanders,0
+47,Nick Foles,0.9884424,0.0115575725,Nick Foles,Chicago Bears,0
+48,Kellen Mond,0.9886246,0.011375439,Kellen Mond,Minnesota Vikings,0
+49,Taylor Heinicke,0.98973453,0.010265472,Taylor Heinicke,Washington Commanders,0
+50,Nick Mullens,0.98973453,0.010265472,Nick Mullens,Cleveland Browns,0
+51,Sean Mannion,0.99067426,0.009325753,Sean Mannion,Minnesota Vikings,0
+52,Kurt Benkert,0.99067426,0.009325753,Kurt Benkert,Green Bay Packers,0
+53,Jacoby Brissett,0.9909139,0.009086063,Jacoby Brissett,Miami Dolphins,0
+54,Drew Lock,0.99109995,0.00890002,Drew Lock,Denver Broncos,0
+55,Mitchell Trubisky,0.99121296,0.008787038,Mitchell Trubisky,Buffalo Bills,0
+56,C.J. Beathard,0.9914837,0.008516314,C.J. Beathard,Jacksonville Jaguars,0
+57,Kendall Hinton,0.99198234,0.008017684,Kendall Hinton,Denver Broncos,0
+58,Trey Lance,0.9919838,0.008016228,Trey Lance,San Francisco 49ers,0
+59,Joe Flacco,0.9920543,0.007945726,Joe Flacco,Philadelphia Eagles,0
+60,Josh Johnson,0.99212694,0.007873059,Josh Johnson,San Francisco 49ers,0
+61,Davis Mills,0.99223095,0.0077690664,Davis Mills,Houston Texans,0
+62,Ian Book,0.99223095,0.0077690664,Ian Book,New Orleans Saints,0
+63,Sam Ehlinger,0.99223095,0.0077690664,Sam Ehlinger,Indianapolis Colts,0
+64,Tyler Huntley,0.99223095,0.0077690664,Tyler Huntley,Baltimore Ravens,0
+65,Jacob Eason,0.99223095,0.0077690664,Jacob Eason,Indianapolis Colts,0
+66,Jake Fromm,0.99223095,0.0077690664,Jake Fromm,Buffalo Bills,0
+67,Feleipe Franks,0.99223095,0.0077690664,Feleipe Franks,Atlanta Falcons,0
+68,Trevor Siemian,0.9923475,0.0076525267,Trevor Siemian,New Orleans Saints,0
+69,Mike Glennon,0.9923475,0.0076525267,Mike Glennon,New York Giants,0
+70,Brian Hoyer,0.9928303,0.007169723,Brian Hoyer,New England Patriots,0
+71,Chase Daniel,0.9928303,0.007169723,Chase Daniel,Los Angeles Chargers,0
+72,Colt McCoy,0.9928303,0.007169723,Colt McCoy,Arizona Cardinals,0
+73,Nathan Peterman,0.9929155,0.0070845075,Nathan Peterman,Las Vegas Raiders,0
+74,Josh Rosen,0.9929455,0.007054537,Josh Rosen,Atlanta Falcons,0
+75,Jeff Driskel,0.99301004,0.0069899634,Jeff Driskel,Houston Texans,0
+76,Brett Rypien,0.993635,0.0063650124,Brett Rypien,Denver Broncos,0
+77,P.J. Walker,0.993635,0.0063650124,P.J. Walker,Carolina Panthers,0
+78,Kevin Hogan,0.993635,0.0063650124,Kevin Hogan,Tennessee Titans,0
+79,Logan Woodside,0.993635,0.0063650124,Logan Woodside,Tennessee Titans,0
+80,Chris Streveler,0.993635,0.0063650124,Chris Streveler,Arizona Cardinals,0
+81,David Blough,0.993635,0.0063650124,David Blough,Detroit Lions,0
+82,Davis Webb,0.993635,0.0063650124,Davis Webb,Buffalo Bills,0
+83,Mike White,0.993635,0.0063650124,Mike White,New York Jets,0
+84,Tim Boyle,0.993635,0.0063650124,Tim Boyle,Detroit Lions,0

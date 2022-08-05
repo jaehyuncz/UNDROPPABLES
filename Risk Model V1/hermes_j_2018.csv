@@ -1,0 +1,495 @@
+,Full Name,0,1,Position,Team
+0,Jarvis Landry,0.15659952,0.8434005,WR,Cleveland Browns
+1,Christian McCaffrey,0.19503498,0.804965,RB,Carolina Panthers
+2,Alvin Kamara,0.19799274,0.80200726,RB,New Orleans Saints
+3,Kareem Hunt,0.21293503,0.78706497,RB,Kansas City Chiefs
+4,DeAndre Hopkins,0.22513509,0.7748649,WR,Houston Texans
+5,Brandin Cooks,0.22580516,0.77419484,WR,Los Angeles Rams
+6,Keenan Allen,0.24503762,0.7549624,WR,Los Angeles Chargers
+7,JuJu Smith-Schuster,0.28355205,0.71644795,WR,Pittsburgh Steelers
+8,Davante Adams,0.2897703,0.7102297,WR,Green Bay Packers
+9,Todd Gurley,0.29117608,0.7088239,RB,Los Angeles Rams
+10,Tyreek Hill,0.29279274,0.70720726,WR,Kansas City Chiefs
+11,Michael Thomas,0.3128389,0.6871611,WR,New Orleans Saints
+12,Mark Ingram,0.31410795,0.68589205,RB,New Orleans Saints
+13,Melvin Gordon,0.31536776,0.68463224,RB,Los Angeles Chargers
+14,Mike Evans,0.3420834,0.6579166,WR,Tampa Bay Buccaneers
+15,Antonio Brown,0.38079047,0.6192095,WR,Pittsburgh Steelers
+16,Julio Jones,0.4140882,0.5859118,WR,Atlanta Falcons
+17,Saquon Barkley,0.42804265,0.57195735,RB,New York Giants
+18,Ezekiel Elliott,0.43351686,0.56648314,RB,Dallas Cowboys
+19,Travis Kelce,0.44278467,0.55721533,TE,Kansas City Chiefs
+20,Amari Cooper,0.4805019,0.5194981,WR,Dallas Cowboys
+21,Leonard Fournette,0.49131393,0.50868607,RB,Jacksonville Jaguars
+22,LeSean McCoy,0.5090736,0.49092636,RB,Buffalo Bills
+23,Devin Funchess,0.51547277,0.48452726,WR,Carolina Panthers
+24,Zach Ertz,0.53013146,0.46986854,TE,Philadelphia Eagles
+25,Larry Fitzgerald,0.538499,0.46150097,WR,Arizona Cardinals
+26,Devonta Freeman,0.550819,0.44918102,RB,Atlanta Falcons
+27,Marvin Jones,0.6115016,0.3884984,WR,Detroit Lions
+28,Odell Beckham,0.6126666,0.3873334,WR,New York Giants
+29,T.Y. Hilton,0.6193358,0.38066423,WR,Indianapolis Colts
+30,Cooper Kupp,0.6268137,0.3731863,WR,Los Angeles Rams
+31,David Johnson,0.64177644,0.35822353,RB,Arizona Cardinals
+32,Duke Johnson,0.64901495,0.35098508,RB,Cleveland Browns
+33,Rob Gronkowski,0.65091836,0.34908167,TE,New England Patriots
+34,Tarik Cohen,0.65728235,0.34271765,RB,Chicago Bears
+35,Derrick Henry,0.6624383,0.33756176,RB,Tennessee Titans
+36,Jordan Howard,0.67361474,0.32638526,RB,Chicago Bears
+37,Joe Mixon,0.67808217,0.32191783,RB,Cincinnati Bengals
+38,Alshon Jeffery,0.67954236,0.32045764,WR,Philadelphia Eagles
+39,Stefon Diggs,0.7023673,0.2976327,WR,Minnesota Vikings
+40,Adam Thielen,0.7106237,0.28937632,WR,Minnesota Vikings
+41,Evan Engram,0.7197992,0.28020078,TE,New York Giants
+42,Lamar Miller,0.73406863,0.2659314,RB,Houston Texans
+43,Kenyan Drake,0.74964106,0.25035894,RB,Miami Dolphins
+44,Golden Tate,0.7583855,0.2416145,WR,Detroit Lions
+45,Nelson Agholor,0.7599826,0.24001744,WR,Philadelphia Eagles
+46,Tyler Lockett,0.7690843,0.23091571,WR,Seattle Seahawks
+47,Sammy Watkins,0.7753459,0.22465406,WR,Kansas City Chiefs
+48,Jamison Crowder,0.7846211,0.21537885,WR,Washington Commanders
+49,Ronald Jones,0.80217916,0.19782084,RB,Tampa Bay Buccaneers
+50,Kerryon Johnson,0.80217916,0.19782084,RB,Detroit Lions
+51,D.J. Moore,0.81766576,0.18233424,WR,Carolina Panthers
+52,Kenny Stills,0.8199849,0.18001509,WR,Miami Dolphins
+53,Tevin Coleman,0.8201165,0.17988347,RB,Atlanta Falcons
+54,Giovani Bernard,0.8250062,0.17499381,RB,Cincinnati Bengals
+55,Eric Ebron,0.83011633,0.16988368,TE,Indianapolis Colts
+56,A.J. Green,0.83179647,0.16820353,WR,Cincinnati Bengals
+57,Jamaal Williams,0.83334124,0.16665876,RB,Green Bay Packers
+58,Paul Richardson,0.8355299,0.1644701,WR,Washington Commanders
+59,Demaryius Thomas,0.83615255,0.16384743,WR,Denver Broncos
+60,Emmanuel Sanders,0.83949065,0.16050933,WR,Denver Broncos
+61,Robert Woods,0.84504104,0.15495898,WR,Los Angeles Rams
+62,Jordan Matthews,0.84894776,0.15105222,TE,New England Patriots
+63,Corey Davis,0.8563855,0.14361446,WR,Tennessee Titans
+64,Chris Godwin,0.86610806,0.13389197,WR,Tampa Bay Buccaneers
+65,Dion Lewis,0.8662178,0.13378222,RB,New England Patriots
+66,Rashaad Penny,0.86623645,0.13376358,RB,Seattle Seahawks
+67,Kenny Golladay,0.86750585,0.13249415,WR,Detroit Lions
+68,Randall Cobb,0.8687627,0.13123731,WR,Green Bay Packers
+69,Sony Michel,0.87022054,0.12977944,RB,New England Patriots
+70,Nick Chubb,0.87022054,0.12977944,RB,Cleveland Browns
+71,Mohamed Sanu,0.87125355,0.12874644,WR,Atlanta Falcons
+72,Christian Kirk,0.8780442,0.121955805,WR,Arizona Cardinals
+73,David Njoku,0.8787,0.12129997,TE,Cleveland Browns
+74,Dalvin Cook,0.8806123,0.1193877,RB,Minnesota Vikings
+75,Kelvin Benjamin,0.8822289,0.11777108,WR,Buffalo Bills
+76,Sterling Shepard,0.88284427,0.11715575,WR,New York Giants
+77,Carlos Hyde,0.8935463,0.106453694,RB,Cleveland Browns
+78,Robby Anderson,0.8940235,0.10597652,WR,New York Jets
+79,D.J. Chark,0.89484096,0.105159014,WR,Jacksonville Jaguars
+80,Tyler Boyd,0.9001759,0.09982405,WR,Cincinnati Bengals
+81,Vernon Davis,0.90060425,0.099395745,TE,Washington Commanders
+82,Keelan Cole,0.90609336,0.09390665,WR,Jacksonville Jaguars
+83,Austin Hooper,0.9065689,0.0934311,TE,Tennessee Titans
+84,Terrance Williams,0.9076613,0.092338696,WR,Dallas Cowboys
+85,Javorius Allen,0.90822685,0.09177315,RB,Baltimore Ravens
+86,DeVante Parker,0.9103323,0.08966767,WR,Miami Dolphins
+87,Calvin Ridley,0.91096073,0.08903925,WR,Atlanta Falcons
+88,James White,0.9129304,0.08706957,RB,New England Patriots
+89,Jay Ajayi,0.91339946,0.08660051,RB,Philadelphia Eagles
+90,Royce Freeman,0.9223087,0.07769133,RB,Denver Broncos
+91,Jordy Nelson,0.9246636,0.0753364,WR,Las Vegas Raiders
+92,Theo Riddick,0.924947,0.07505297,RB,Detroit Lions
+93,Doug Baldwin,0.9287074,0.071292594,WR,Seattle Seahawks
+94,Cordarrelle Patterson,0.9287774,0.07122261,RB,New England Patriots
+95,Allen Robinson,0.9294587,0.07054132,WR,Chicago Bears
+96,Ameer Abdullah,0.9302083,0.069791645,RB,Minnesota Vikings
+97,Anthony Miller,0.93062854,0.069371454,WR,Chicago Bears
+98,Dante Pettis,0.93062854,0.069371454,WR,San Francisco 49ers
+99,James Washington,0.93062854,0.069371454,WR,Pittsburgh Steelers
+100,Courtland Sutton,0.93062854,0.069371454,WR,Denver Broncos
+101,Marquise Goodwin,0.93102866,0.068971336,WR,San Francisco 49ers
+102,Tavon Austin,0.9318029,0.06819708,RB,Dallas Cowboys
+103,Rishard Matthews,0.93269426,0.06730574,WR,Tennessee Titans
+104,Will Fuller,0.9328588,0.067141145,WR,Houston Texans
+105,Hayden Hurst,0.93368834,0.06631165,TE,Baltimore Ravens
+106,Tyler Kroft,0.93616754,0.06383244,TE,Cincinnati Bengals
+107,Alex Collins,0.93792194,0.06207805,RB,Baltimore Ravens
+108,Curtis Samuel,0.93843865,0.06156136,WR,Carolina Panthers
+109,T.J. Yeldon,0.9397479,0.060252044,RB,Jacksonville Jaguars
+110,O.J. Howard,0.9399381,0.060061857,TE,Tampa Bay Buccaneers
+111,Dallas Goedert,0.9403397,0.059660304,TE,Philadelphia Eagles
+112,Mike Gesicki,0.9403397,0.059660304,TE,Miami Dolphins
+113,Josh Doctson,0.94050664,0.059493355,WR,Washington Commanders
+114,Jared Cook,0.9414886,0.0585114,TE,Las Vegas Raiders
+115,Torrey Smith,0.943366,0.05663403,WR,Carolina Panthers
+116,Delanie Walker,0.9438758,0.05612424,TE,Tennessee Titans
+117,Jeremy Hill,0.9439187,0.05608132,RB,New England Patriots
+118,Donte Moncrief,0.94549817,0.054501813,WR,Jacksonville Jaguars
+119,Isaiah Crowell,0.9455757,0.054424305,RB,New York Jets
+120,Latavius Murray,0.94648135,0.05351864,RB,Minnesota Vikings
+121,Kyle Rudolph,0.947141,0.052858982,TE,Minnesota Vikings
+122,Michael Gallup,0.94768053,0.052319482,WR,Dallas Cowboys
+123,George Kittle,0.9485622,0.051437795,TE,San Francisco 49ers
+124,Travis Benjamin,0.949541,0.050459035,WR,Los Angeles Chargers
+125,Ty Montgomery,0.94991004,0.05008993,RB,Baltimore Ravens
+126,Ben Watson,0.95186204,0.04813795,TE,New Orleans Saints
+127,Chris Thompson,0.9528046,0.047195394,RB,Washington Commanders
+128,Chris Thompson,0.9528046,0.047195394,WR,-
+129,Tre'Quan Smith,0.953124,0.04687601,WR,New Orleans Saints
+130,Jimmy Graham,0.95340586,0.046594128,TE,Green Bay Packers
+131,Tyrell Williams,0.9535328,0.046467155,WR,Los Angeles Chargers
+132,Christine Michael,0.95359623,0.046403773,RB,Indianapolis Colts
+133,Martavis Bryant,0.95499456,0.04500545,WR,Las Vegas Raiders
+134,Mark Andrews,0.9551197,0.04488028,TE,Baltimore Ravens
+135,John Brown,0.95522296,0.044777036,WR,Baltimore Ravens
+136,Marshawn Lynch,0.95578414,0.044215884,RB,Las Vegas Raiders
+137,Bilal Powell,0.9558456,0.044154413,RB,New York Jets
+138,John Ross,0.9558736,0.044126377,WR,Cincinnati Bengals
+139,Taywan Taylor,0.959091,0.040908977,WR,Tennessee Titans
+140,Mike Wallace,0.96030724,0.03969278,WR,Philadelphia Eagles
+141,Austin Seferian-Jenkins,0.9605589,0.03944114,TE,Jacksonville Jaguars
+142,Laquon Treadwell,0.9608789,0.03912109,WR,Minnesota Vikings
+143,Brandon LaFell,0.9609056,0.0390944,WR,Las Vegas Raiders
+144,Ted Ginn,0.9612286,0.03877142,WR,New Orleans Saints
+145,Corey Coleman,0.96127665,0.03872338,WR,Cleveland Browns
+146,Mike Williams,0.9620842,0.03791584,WR,Los Angeles Chargers
+147,Ryan Grant,0.96250784,0.03749214,WR,Indianapolis Colts
+148,Phillip Dorsett,0.96255237,0.037447624,WR,New England Patriots
+149,Breshad Perriman,0.96255237,0.037447624,WR,Washington Commanders
+150,J.J. Nelson,0.9628351,0.03716493,WR,Arizona Cardinals
+151,Michael Crabtree,0.96304536,0.03695465,WR,Baltimore Ravens
+152,Jermaine Gresham,0.9634173,0.036582727,TE,Arizona Cardinals
+153,Michael Floyd,0.9634173,0.036582727,WR,New Orleans Saints
+154,Frank Gore,0.9641631,0.035836853,RB,Miami Dolphins
+155,Adrian Peterson,0.9642551,0.03574491,RB,Washington Commanders
+156,Jermaine Kearse,0.9644031,0.035596915,WR,New York Jets
+157,Doug Martin,0.96558267,0.034417346,RB,Las Vegas Raiders
+158,Lance Kendricks,0.96683246,0.033167534,TE,Green Bay Packers
+159,Zay Jones,0.96696144,0.033038557,WR,Buffalo Bills
+160,Jesse James,0.96707404,0.032925967,TE,Pittsburgh Steelers
+161,Leonte Carroo,0.9671973,0.032802712,WR,Miami Dolphins
+162,C.J. Anderson,0.967739,0.03226104,RB,Carolina Panthers
+163,Maxx Williams,0.9677976,0.0322024,TE,Arizona Cardinals
+164,Jonathan Stewart,0.96821886,0.031781137,RB,New York Giants
+165,Greg Olsen,0.96849835,0.031501636,TE,Carolina Panthers
+166,Tyler Eifert,0.9687481,0.031251922,TE,Cincinnati Bengals
+167,Cameron Brate,0.9689745,0.031025544,TE,Tampa Bay Buccaneers
+168,Kevin White,0.9690594,0.030940609,WR,Chicago Bears
+169,Chris Conley,0.97013485,0.029865118,WR,Kansas City Chiefs
+170,Justin Hunter,0.9712783,0.02872166,WR,Pittsburgh Steelers
+171,Kenneth Dixon,0.971747,0.02825299,RB,Baltimore Ravens
+172,Marlon Mack,0.97188365,0.028116351,RB,Indianapolis Colts
+173,James Conner,0.97210675,0.027893241,RB,Pittsburgh Steelers
+174,Tajae Sharpe,0.9732249,0.026775146,WR,Tennessee Titans
+175,Dwayne Allen,0.9739721,0.026027944,TE,New England Patriots
+176,Trent Taylor,0.97424066,0.025759364,WR,San Francisco 49ers
+177,Adam Shaheen,0.97425264,0.025747363,TE,Chicago Bears
+178,Wayne Gallman,0.97438306,0.02561695,RB,New York Giants
+179,Samaje Perine,0.97438306,0.02561695,RB,Washington Commanders
+180,Justin Watson,0.97469664,0.025303343,WR,Tampa Bay Buccaneers
+181,D'Onta Foreman,0.9747833,0.025216714,RB,Houston Texans
+182,DeSean Jackson,0.9750498,0.024950217,WR,Tampa Bay Buccaneers
+183,Brian Quick,0.9753084,0.02469161,WR,Washington Commanders
+184,Alfred Morris,0.97603977,0.02396024,RB,San Francisco 49ers
+185,Auden Tate,0.97606164,0.02393836,WR,Cincinnati Bengals
+186,Keke Coutee,0.97621554,0.023784451,WR,Houston Texans
+187,Cody Latimer,0.9762287,0.023771284,WR,New York Giants
+188,Stevan Ridley,0.9763018,0.023698207,RB,Pittsburgh Steelers
+189,Nyheim Hines,0.9765746,0.023425391,RB,Indianapolis Colts
+190,Jaylen Samuels,0.9765746,0.023425391,RB,Pittsburgh Steelers
+191,Mark Walton,0.9765746,0.023425391,RB,Cincinnati Bengals
+192,Charles Clay,0.97670215,0.023297857,TE,Buffalo Bills
+193,Jack Doyle,0.97784245,0.022157526,TE,Indianapolis Colts
+194,Jordan Reed,0.9779922,0.022007825,TE,Washington Commanders
+195,Jordan Akins,0.9780281,0.021971866,TE,Houston Texans
+196,Richard Rodgers,0.9780474,0.021952637,TE,Green Bay Packers
+197,Albert Wilson,0.9789324,0.021067616,WR,Miami Dolphins
+198,Sammie Coates,0.9793124,0.020687576,WR,Houston Texans
+199,Jeremy McNichols,0.9794388,0.020561226,RB,Indianapolis Colts
+200,Gerald Everett,0.9796957,0.020304324,TE,Los Angeles Rams
+201,Dalton Schultz,0.97980237,0.02019762,TE,Dallas Cowboys
+202,Antonio Callaway,0.97980237,0.02019762,WR,Cleveland Browns
+203,Will Dissly,0.97980237,0.02019762,TE,Seattle Seahawks
+204,Ryan Switzer,0.9798597,0.02014027,WR,Pittsburgh Steelers
+205,Josh Gordon,0.9802139,0.019786125,WR,Cleveland Browns
+206,Jeremy Kerley,0.98026556,0.019734435,WR,Buffalo Bills
+207,Jamaal Charles,0.98036236,0.019637665,RB,Jacksonville Jaguars
+208,Austin Ekeler,0.9803703,0.019629743,RB,Los Angeles Chargers
+209,Devontae Booker,0.98063636,0.019363657,RB,Denver Broncos
+210,Marcedes Lewis,0.9811396,0.018860385,TE,Green Bay Packers
+211,Darrius Heyward-Bey,0.9811396,0.018860385,WR,Pittsburgh Steelers
+212,Mike Gillislee,0.981213,0.01878705,RB,New Orleans Saints
+213,Danny Amendola,0.9812883,0.018711692,WR,Miami Dolphins
+214,Derek Carrier,0.9816065,0.018393528,TE,Las Vegas Raiders
+215,Chad Williams,0.9818716,0.018128412,WR,Arizona Cardinals
+216,Brandon Marshall,0.9822506,0.017749429,WR,Seattle Seahawks
+217,Jonnu Smith,0.982256,0.01774401,TE,Tennessee Titans
+218,Jeremy Langford,0.9823718,0.017628213,RB,New York Jets
+219,Jalen Tolliver,0.9823893,0.01761074,WR,Arizona Cardinals
+220,C.J. Prosise,0.9824774,0.017522555,RB,Seattle Seahawks
+221,John Kelly,0.9824801,0.017519863,RB,Los Angeles Rams
+222,Pharoh Cooper,0.98251957,0.017480427,WR,Los Angeles Rams
+223,Matt Breida,0.9826107,0.017389314,RB,San Francisco 49ers
+224,Chris Carson,0.982744,0.01725601,RB,Seattle Seahawks
+225,Justin Jackson,0.9827648,0.017235216,RB,Los Angeles Chargers
+226,Chase Edmonds,0.98287636,0.017123645,RB,Arizona Cardinals
+227,Allen Hurns,0.98386395,0.016136058,WR,Dallas Cowboys
+228,Austin Carr,0.9842603,0.015739689,WR,New Orleans Saints
+229,Andre Roberts,0.98447824,0.015521737,WR,New York Jets
+230,Aaron Jones,0.98459095,0.015409055,RB,Green Bay Packers
+231,Deontay Burnett,0.9849068,0.015093234,WR,Tennessee Titans
+232,Vance McDonald,0.9849274,0.015072585,TE,Pittsburgh Steelers
+233,Pierre Garcon,0.98500955,0.014990459,WR,San Francisco 49ers
+234,Josh Adams,0.9851366,0.0148633765,RB,Philadelphia Eagles
+235,Ian Thomas,0.9852489,0.014751071,TE,Carolina Panthers
+236,Kamar Aiken,0.98572934,0.014270641,WR,Philadelphia Eagles
+237,Kyle Juszczyk,0.98580754,0.014192481,RB,San Francisco 49ers
+238,Freddie Martino,0.98582745,0.014172526,WR,Tampa Bay Buccaneers
+239,Spencer Ware,0.98613656,0.01386344,RB,Kansas City Chiefs
+240,Brandon Tate,0.98632085,0.013679123,WR,New Orleans Saints
+241,Trey Quinn,0.9870086,0.012991409,WR,Washington Commanders
+242,Ito Smith,0.98709303,0.012906949,RB,Atlanta Falcons
+243,Tyler Conklin,0.98709303,0.012906949,TE,Minnesota Vikings
+244,DaeSean Hamilton,0.98709303,0.012906949,WR,Denver Broncos
+245,J'Mon Moore,0.98709303,0.012906949,WR,Green Bay Packers
+246,Kalen Ballage,0.98709303,0.012906949,RB,Miami Dolphins
+247,Chris Herndon,0.98709303,0.012906949,TE,New York Jets
+248,Durham Smythe,0.98709303,0.012906949,TE,Miami Dolphins
+249,Jake Butt,0.98709303,0.012906949,TE,Denver Broncos
+250,Jordan Leggett,0.98709303,0.012906949,TE,New York Jets
+251,Quincy Enunwa,0.9870969,0.012903097,WR,-
+252,Jordan Thomas,0.9872001,0.012799897,TE,-
+253,Quadree Henderson,0.9872001,0.012799897,WR,-
+254,Ray-Ray McCloud,0.9872001,0.012799897,WR,-
+255,Equanimeous St. Brown,0.9872001,0.012799897,WR,-
+256,Jarius Wright,0.987203,0.012796993,WR,-
+257,Jeff Heuerman,0.9874288,0.012571239,TE,-
+258,Nick Vannett,0.9874288,0.012571239,TE,-
+259,Ed Dickson,0.9874414,0.012558584,TE,-
+260,Matthew Dayes,0.9881175,0.011882467,RB,-
+261,Rex Burkhead,0.9881453,0.0118546905,RB,-
+262,Darren Sproles,0.9882119,0.011788058,RB,-
+263,Jacquizz Rodgers,0.9882225,0.011777498,RB,-
+264,Mason Schreck,0.98889685,0.011103138,TE,-
+265,Brian Hill,0.9890398,0.010960192,RB,-
+266,Josh Reynolds,0.9890398,0.010960192,WR,-
+267,Josh Malone,0.9890398,0.010960192,WR,-
+268,Isaiah McKenzie,0.9890398,0.010960192,WR,-
+269,Dede Westbrook,0.9891577,0.010842351,WR,-
+270,Andre Holmes,0.9891884,0.010811618,WR,-
+271,Niles Paul,0.98929805,0.010701948,TE,-
+272,Robert Turbin,0.98929805,0.010701948,RB,-
+273,J.D. McKissic,0.9893389,0.010661148,RB,-
+274,Adam Humphries,0.9893389,0.010661148,WR,-
+275,Rod Smith,0.9893389,0.010661148,RB,-
+276,Rashard Higgins,0.98947257,0.010527437,WR,-
+277,LeGarrette Blount,0.98983616,0.010163851,RB,-
+278,Taiwan Jones,0.99002206,0.009977907,RB,-
+279,DeAndre Washington,0.99021745,0.009782569,RB,-
+280,Cole Beasley,0.9902457,0.009754276,WR,-
+281,Willie Snead,0.99026704,0.009732951,WR,-
+282,Dontrelle Inman,0.99026704,0.009732951,WR,-
+283,Justin Davis,0.99030125,0.009698763,RB,-
+284,Stacy Coley,0.99030125,0.009698763,WR,-
+285,Demarcus Robinson,0.9903211,0.009678879,WR,-
+286,Chris Hogan,0.99037325,0.009626735,WR,-
+287,Chris Ivory,0.9904877,0.009512287,RB,-
+288,DeAndre Carter,0.9905648,0.00943518,WR,-
+289,Jake Kumerow,0.9905648,0.00943518,WR,-
+290,Jalen Richard,0.99064595,0.0093540475,RB,-
+291,Vyncint Smith,0.99067074,0.009329252,WR,-
+292,Jaron Brown,0.9909183,0.009081741,WR,-
+293,Deonte Thompson,0.9909183,0.009081741,WR,-
+294,Zach Zenner,0.9910464,0.008953551,RB,-
+295,Jehu Chesson,0.991102,0.008898023,WR,-
+296,Justin Hardy,0.991102,0.008898023,WR,-
+297,Bruce Ellington,0.991102,0.008898023,WR,-
+298,Dion Sims,0.991102,0.008898023,TE,-
+299,Orson Charles,0.991102,0.008898023,TE,-
+300,Blake Bell,0.991102,0.008898023,TE,-
+301,Wendell Smallwood,0.991102,0.008898023,RB,-
+302,MyCole Pruitt,0.991102,0.008898023,TE,-
+303,Mike Davis,0.991102,0.008898023,RB,-
+304,Mike Davis,0.991102,0.008898023,WR,-
+305,Mike Davis,0.99212795,0.007872043,RB,-
+306,Mike Davis,0.99212795,0.007872043,WR,-
+307,Levine Toilolo,0.991102,0.008898023,TE,-
+308,Shelton Gibson,0.991102,0.008898023,WR,-
+309,C.J. Uzomah,0.991102,0.008898023,TE,-
+310,Tyler Higbee,0.991102,0.008898023,TE,-
+311,Tyler Ervin,0.991102,0.008898023,RB,-
+312,Rashad Greene,0.991102,0.008898023,WR,-
+313,Eric Saubert,0.991102,0.008898023,TE,-
+314,Seth Devalve,0.991102,0.008898023,TE,-
+315,Jonathan Williams,0.991102,0.008898023,RB,-
+316,Trevor Davis,0.991102,0.008898023,WR,-
+317,Chris Moore,0.991102,0.008898023,WR,-
+318,Jeremy Sprinkle,0.991102,0.008898023,TE,-
+319,Michael Roberts,0.991102,0.008898023,TE,-
+320,Noah Brown,0.9912683,0.008731721,WR,-
+321,Alex Erickson,0.9914358,0.008564179,WR,-
+322,Trent Sherfield,0.9918427,0.008157332,WR,-
+323,Chris Lacy,0.9918427,0.008157332,WR,-
+324,Allen Lazard,0.9918427,0.008157332,WR,-
+325,Jeff Wilson,0.9918427,0.008157332,RB,-
+326,Cameron Batson,0.9918427,0.008157332,WR,-
+327,Cam Phillips,0.9918427,0.008157332,WR,-
+328,Shaun Wilson,0.9918427,0.008157332,RB,-
+329,Malik Turner,0.9918427,0.008157332,WR,-
+330,Jordan Franks,0.9918427,0.008157332,TE,-
+331,Isaiah Ford,0.9918427,0.008157332,WR,-
+332,Russell Gage,0.9918427,0.008157332,WR,-
+333,Benny Cunningham,0.99201405,0.007985963,RB,-
+334,Cameron Meredith,0.99201405,0.007985963,WR,-
+335,Charcandrick West,0.99201405,0.007985963,RB,-
+336,Taylor Gabriel,0.99201405,0.007985963,WR,-
+337,Rob Kelley,0.99201405,0.007985963,RB,-
+338,Eli Rogers,0.99201405,0.007985963,WR,-
+339,Ryan Griffin,0.99210453,0.007895484,TE,-
+340,Alfred Blue,0.99210453,0.007895484,RB,-
+341,Dwayne Harris,0.99210453,0.007895484,WR,-
+342,Elijah McGuire,0.99228805,0.0077119595,RB,-
+343,Victor Bolden,0.9925421,0.007457908,WR,-
+344,Bobo Wilson,0.9925421,0.007457908,WR,-
+345,Darrell Daniels,0.9925421,0.007457908,TE,-
+346,Darius Jennings,0.99262255,0.007377441,WR,-
+347,Luke Stocker,0.9926315,0.0073685143,TE,-
+348,Luke Willson,0.9926315,0.0073685143,TE,-
+349,Anthony Sherman,0.9926315,0.0073685143,RB,-
+350,Seth Roberts,0.99289894,0.0071010827,WR,-
+351,Rhett Ellison,0.9929389,0.0070611066,TE,-
+352,Lee Smith,0.9929389,0.0070611066,TE,-
+353,David Williams,0.9930333,0.006966724,RB,-
+354,Zach Pascal,0.9930333,0.006966724,WR,-
+355,Johnny Mundt,0.9930333,0.006966724,TE,-
+356,Darius Jackson,0.9930333,0.006966724,RB,-
+357,Darrel Williams,0.9930333,0.006966724,RB,-
+358,Jason Croom,0.9930333,0.006966724,TE,-
+359,Jordan Wilkins,0.9930333,0.006966724,RB,-
+360,Derrick Willies,0.9930333,0.006966724,WR,-
+361,Matt Flanagan,0.9930333,0.006966724,TE,-
+362,David Moore,0.9930333,0.006966724,WR,-
+363,De'Lance Turner,0.9930333,0.006966724,RB,-
+364,Anthony Firkser,0.9930333,0.006966724,TE,-
+365,J.J. Jones,0.9930333,0.006966724,WR,-
+366,Darvin Kidsy,0.9930333,0.006966724,WR,-
+367,Gus Edwards,0.9930333,0.006966724,RB,-
+368,Detrez Newsome,0.9930333,0.006966724,RB,-
+369,Gehrig Dieter,0.9930333,0.006966724,WR,-
+370,Dontrell Hilliard,0.9930333,0.006966724,RB,-
+371,Blake Jarwin,0.9930333,0.006966724,TE,-
+372,David Grinnage,0.9930333,0.006966724,TE,-
+373,Dan Arnold,0.9930333,0.006966724,TE,-
+374,Damion Ratley,0.9930333,0.006966724,WR,-
+375,Taysom Hill,0.9930333,0.006966724,TE,-
+376,Tim White,0.9930333,0.006966724,WR,-
+377,Roc Thomas,0.9930333,0.006966724,RB,-
+378,Ross Dwelley,0.9930333,0.006966724,TE,-
+379,Riley McCarron,0.9930333,0.006966724,WR,-
+380,Richie James,0.9930333,0.006966724,WR,-
+381,Chad Beebe,0.9930333,0.006966724,WR,-
+382,Da'Mari Scott,0.9930333,0.006966724,WR,-
+383,T.J. Logan,0.9930333,0.006966724,RB,-
+384,Taquan Mizzell,0.9930333,0.006966724,RB,-
+385,Boston Scott,0.9930333,0.006966724,RB,-
+386,Trenton Cannon,0.9930333,0.006966724,RB,-
+387,Robert Tonyan,0.9930333,0.006966724,TE,-
+388,Marquez Valdes-Scantling,0.9930333,0.006966724,WR,-
+389,Robert Foster,0.9930333,0.006966724,WR,-
+390,Marcus Kemp,0.9930333,0.006966724,WR,-
+391,Marcell Ateman,0.9930333,0.006966724,WR,-
+392,Sean Culkin,0.9930333,0.006966724,TE,-
+393,Lance Lenoir,0.9930333,0.006966724,WR,-
+394,Khadarel Hodge,0.9930333,0.006966724,WR,-
+395,Keon Hatcher,0.9930333,0.006966724,WR,-
+396,Brandon Zylstra,0.9930333,0.006966724,WR,-
+397,Andy Jones,0.9930333,0.006966724,WR,-
+398,Keith Kirkwood,0.9930333,0.006966724,WR,-
+399,River Cracraft,0.9930333,0.006966724,WR,-
+400,Dare Ogunbowale,0.9930333,0.006966724,RB,-
+401,Mike Boone,0.9930333,0.006966724,RB,-
+402,Keith Ford,0.9930333,0.006966724,RB,-
+403,Jawill Davis,0.9930333,0.006966724,WR,-
+404,Brandon Powell,0.9930333,0.006966724,WR,-
+405,Javon Wims,0.9930333,0.006966724,WR,-
+406,Tim Patrick,0.9930333,0.006966724,WR,-
+407,Janarion Grant,0.9930333,0.006966724,WR,-
+408,Phillip Lindsay,0.9930333,0.006966724,RB,-
+409,Travaris Cadet,0.9933897,0.0066102585,RB,-
+410,Damien Williams,0.9933897,0.0066102585,RB,-
+411,Kendrick Bourne,0.99341667,0.0065833074,WR,-
+412,Corey Clement,0.99341667,0.0065833074,RB,-
+413,Ricky Seals-Jones,0.99341667,0.0065833074,TE,-
+414,Matt LaCosse,0.99394935,0.0060506645,TE,-
+415,Byron Marshall,0.99394935,0.0060506645,RB,-
+416,Cameron Artis-Payne,0.99394935,0.0060506645,RB,-
+417,Dan Vitale,0.99394935,0.0060506645,RB,-
+418,C.J. Ham,0.99394935,0.0060506645,RB,-
+419,Scott Simonson,0.99394935,0.0060506645,TE,-
+420,Matt Lengel,0.99394935,0.0060506645,TE,-
+421,Logan Paulsen,0.99394935,0.0060506645,TE,-
+422,Corey Grant,0.99394935,0.0060506645,RB,-
+423,Brandon Wilds,0.99394935,0.0060506645,RB,-
+424,Neal Sterling,0.99394935,0.0060506645,TE,-
+425,Josh Hill,0.99394935,0.0060506645,TE,-
+426,Khari Lee,0.99394935,0.0060506645,TE,-
+427,Nick Boyle,0.99394935,0.0060506645,TE,-
+428,Nick O'Leary,0.99394935,0.0060506645,TE,-
+429,Alex Armah,0.99394935,0.0060506645,RB,-
+430,Brandon Bolden,0.99394935,0.0060506645,RB,-
+431,Trey Burton,0.99394935,0.0060506645,TE,-
+432,Xavier Grimble,0.99394935,0.0060506645,TE,-
+433,John Phillips,0.99394935,0.0060506645,TE,-
+434,Andy Janovich,0.99394935,0.0060506645,RB,-
+435,Virgil Green,0.99394935,0.0060506645,TE,-
+436,Tommylee Lewis,0.99394935,0.0060506645,WR,-
+437,Jerome Cunningham,0.99394935,0.0060506645,TE,-
+438,Peyton Barber,0.99394935,0.0060506645,RB,-
+439,Russell Shepard,0.99394935,0.0060506645,WR,-
+440,Rod Streater,0.99394935,0.0060506645,WR,-
+441,Ryan Hewitt,0.99394935,0.0060506645,RB,-
+442,Senorise Perry,0.99394935,0.0060506645,RB,-
+443,Nick Williams,0.99394935,0.0060506645,WR,-
+444,Tommy Bohanon,0.99394935,0.0060506645,RB,-
+445,Tre Madden,0.99394935,0.0060506645,RB,-
+446,Maurice Harris,0.99394935,0.0060506645,WR,-
+447,Marvin Hall,0.99394935,0.0060506645,WR,-
+448,Zach Line,0.99394935,0.0060506645,RB,-
+449,Marcus Johnson,0.99394935,0.0060506645,WR,-
+450,Aldrick Robinson,0.99394935,0.0060506645,WR,-
+451,Bennie Fowler,0.99394935,0.0060506645,WR,-
+452,Kaelin Clay,0.99394935,0.0060506645,WR,-
+453,Brice Butler,0.99394935,0.0060506645,WR,-
+454,Josh Bellamy,0.99394935,0.0060506645,WR,-
+455,Johnny Holton,0.99394935,0.0060506645,WR,-
+456,Charone Peake,0.99394935,0.0060506645,WR,-
+457,Chester Rogers,0.99394935,0.0060506645,WR,-
+458,JoJo Natson,0.99394935,0.0060506645,WR,-
+459,Jaydon Mickens,0.99394935,0.0060506645,WR,-
+460,Cody Core,0.99394935,0.0060506645,WR,-
+461,Jakeem Grant,0.99394935,0.0060506645,WR,-
+462,Damiere Byrd,0.99394935,0.0060506645,WR,-
+463,Geronimo Allison,0.99394935,0.0060506645,WR,-
+464,Raheem Mostert,0.99394935,0.0060506645,RB,-
+465,Patrick DiMarco,0.99394935,0.0060506645,RB,-
+466,James O'Shaughnessy,0.99394935,0.0060506645,TE,-
+467,T.J. Jones,0.99394935,0.0060506645,WR,-
+468,Jacob Hollister,0.99394935,0.0060506645,TE,-
+469,David Fluellen,0.99394935,0.0060506645,RB,-
+470,Hakeem Valles,0.99394935,0.0060506645,TE,-
+471,De'Angelo Henderson,0.99394935,0.0060506645,RB,-
+472,Geoff Swaim,0.99394935,0.0060506645,TE,-
+473,Garrett Celek,0.99394935,0.0060506645,TE,-
+474,Derek Watt,0.99394935,0.0060506645,RB,-
+475,Eric Tomlinson,0.99394935,0.0060506645,TE,-
+476,Derrick Coleman,0.99394935,0.0060506645,RB,-
+477,Dwayne Washington,0.99394935,0.0060506645,RB,-
+478,David Morgan,0.99394935,0.0060506645,TE,-
+479,Darren Waller,0.99394935,0.0060506645,TE,-
+480,Elijhaa Penny,0.99394935,0.0060506645,RB,-
+481,Cole Wick,0.99394935,0.0060506645,TE,-
+482,Brian Parker,0.99394935,0.0060506645,TE,-
+483,Ben Braunecker,0.99394935,0.0060506645,TE,-
+484,Jamize Olawale,0.99394935,0.0060506645,RB,-
+485,Antony Auclair,0.99394935,0.0060506645,TE,-
+486,Alan Cross,0.99394935,0.0060506645,TE,-
+487,A.J. Derby,0.99394935,0.0060506645,TE,-
+488,Kapri Bibbs,0.99394935,0.0060506645,RB,-
+489,Kenjon Barner,0.99394935,0.0060506645,RB,-
+490,Malcolm Brown,0.99394935,0.0060506645,RB,-
+491,Marcus Murphy,0.99394935,0.0060506645,RB,-
+492,Mike Burton,0.99394935,0.0060506645,RB,-
+493,Geremy Davis,0.99394935,0.0060506645,WR,-

@@ -1,0 +1,71 @@
+,id,0,1,Full Name,Team,starter
+0,Deshaun Watson,0.092072606,0.9079274,Deshaun Watson,Houston Texans,1
+1,Russell Wilson,0.35047668,0.6495233,Russell Wilson,Seattle Seahawks,1
+2,Dak Prescott,0.3953551,0.6046449,Dak Prescott,Dallas Cowboys,1
+3,Patrick Mahomes,0.58080065,0.41919935,Patrick Mahomes,Kansas City Chiefs,1
+4,Aaron Rodgers,0.6193712,0.3806288,Aaron Rodgers,Green Bay Packers,1
+5,Josh Allen,0.7109384,0.2890616,Josh Allen,Buffalo Bills,1
+6,Baker Mayfield,0.72167563,0.27832434,Baker Mayfield,Cleveland Browns,1
+7,Cam Newton,0.74773854,0.25226146,Cam Newton,Carolina Panthers,1
+8,Jared Goff,0.7574332,0.24256682,Jared Goff,Los Angeles Rams,1
+9,Drew Brees,0.76969016,0.23030987,Drew Brees,New Orleans Saints,1
+10,Ben Roethlisberger,0.833186,0.16681403,Ben Roethlisberger,Pittsburgh Steelers,1
+11,Tom Brady,0.85959756,0.1404024,Tom Brady,New England Patriots,1
+12,Matt Ryan,0.87268233,0.1273177,Matt Ryan,Atlanta Falcons,1
+13,Philip Rivers,0.8728861,0.12711388,Philip Rivers,Los Angeles Chargers,1
+14,Kirk Cousins,0.9038791,0.09612092,Kirk Cousins,Minnesota Vikings,1
+15,Matthew Stafford,0.9499746,0.050025377,Matthew Stafford,Detroit Lions,1
+16,Jameis Winston,0.9518826,0.048117373,Jameis Winston,Tampa Bay Buccaneers,1
+17,Jimmy Garoppolo,0.9535477,0.046452273,Jimmy Garoppolo,San Francisco 49ers,1
+18,Blake Bortles,0.9638851,0.036114853,Blake Bortles,Los Angeles Rams,0
+19,Lamar Jackson,0.9661349,0.03386509,Lamar Jackson,Baltimore Ravens,1
+20,Garrett Gilbert,0.9667355,0.03326454,Garrett Gilbert,Cleveland Browns,0
+21,Carson Wentz,0.9686259,0.031374127,Carson Wentz,Philadelphia Eagles,1
+22,Jacoby Brissett,0.98095584,0.019044146,Jacoby Brissett,Indianapolis Colts,1
+23,Mitchell Trubisky,0.9811003,0.018899681,Mitchell Trubisky,Chicago Bears,1
+24,Sam Darnold,0.98157156,0.018428419,Sam Darnold,New York Jets,1
+25,Joe Flacco,0.9831471,0.016852932,Joe Flacco,Denver Broncos,1
+26,Kyle Allen,0.98326993,0.016730044,Kyle Allen,Carolina Panthers,0
+27,Matt Moore,0.9842777,0.015722271,Matt Moore,Kansas City Chiefs,0
+28,Marcus Mariota,0.9854271,0.014572919,Marcus Mariota,Tennessee Titans,1
+29,Andy Dalton,0.98623115,0.0137688685,Andy Dalton,Cincinnati Bengals,1
+30,Case Keenum,0.9862432,0.013756786,Case Keenum,Washington Commanders,1
+31,Nick Foles,0.9866188,0.013381166,Nick Foles,Jacksonville Jaguars,1
+32,Ryan Fitzpatrick,0.98696655,0.013033425,Ryan Fitzpatrick,Miami Dolphins,1
+33,Eli Manning,0.986997,0.013003007,Eli Manning,New York Giants,1
+34,Derek Carr,0.9870801,0.012919889,Derek Carr,Las Vegas Raiders,1
+35,Kyler Murray,0.98709875,0.012901259,Kyler Murray,Arizona Cardinals,1
+36,Teddy Bridgewater,0.9886273,0.011372699,Teddy Bridgewater,New Orleans Saints,0
+37,Ryan Tannehill,0.98941934,0.010580672,Ryan Tannehill,Tennessee Titans,0
+38,Ryan Griffin,0.9904502,0.009549811,Ryan Griffin,Tampa Bay Buccaneers,0
+39,Will Grier,0.9904502,0.009549811,Will Grier,Carolina Panthers,0
+40,Tyrod Taylor,0.9913188,0.008681159,Tyrod Taylor,Los Angeles Chargers,0
+41,Daniel Jones,0.99139065,0.008609376,Daniel Jones,New York Giants,0
+42,Josh Rosen,0.99139065,0.008609376,Josh Rosen,Miami Dolphins,0
+43,Dwayne Haskins,0.99139065,0.008609376,Dwayne Haskins,Washington Commanders,0
+44,Alex Tanney,0.99198234,0.008017684,Alex Tanney,New York Giants,0
+45,Robert Griffin III,0.9921597,0.007840258,Robert Griffin III,Baltimore Ravens,0
+46,Gardner Minshew,0.99223095,0.0077690664,Gardner Minshew,Jacksonville Jaguars,0
+47,Jarrett Stidham,0.99223095,0.0077690664,Jarrett Stidham,New England Patriots,0
+48,Drew Lock,0.99223095,0.0077690664,Drew Lock,Denver Broncos,0
+49,Devlin Hodges,0.99223095,0.0077690664,Devlin Hodges,Pittsburgh Steelers,0
+50,Trevor Siemian,0.9923475,0.0076525267,Trevor Siemian,New York Jets,0
+51,Mike Glennon,0.9923475,0.0076525267,Mike Glennon,Las Vegas Raiders,0
+52,Ryan Finley,0.9923475,0.0076525267,Ryan Finley,Cincinnati Bengals,0
+53,Josh McCown,0.9926212,0.007378807,Josh McCown,Philadelphia Eagles,0
+54,Chase Daniel,0.9928303,0.007169723,Chase Daniel,Chicago Bears,0
+55,Brian Hoyer,0.9928303,0.007169723,Brian Hoyer,Indianapolis Colts,0
+56,Matt Schaub,0.9928303,0.007169723,Matt Schaub,Atlanta Falcons,0
+57,Colt McCoy,0.9928303,0.007169723,Colt McCoy,Washington Commanders,0
+58,Jeff Driskel,0.99301004,0.0069899634,Jeff Driskel,Detroit Lions,0
+59,Brett Hundley,0.9934492,0.0065507833,Brett Hundley,Arizona Cardinals,0
+60,Luke Falk,0.993635,0.0063650124,Luke Falk,New York Jets,0
+61,Trace McSorley,0.993635,0.0063650124,Trace McSorley,Baltimore Ravens,0
+62,Sean Mannion,0.993635,0.0063650124,Sean Mannion,Minnesota Vikings,0
+63,Matt Barkley,0.993635,0.0063650124,Matt Barkley,Buffalo Bills,0
+64,Nick Mullens,0.993635,0.0063650124,Nick Mullens,San Francisco 49ers,0
+65,David Blough,0.993635,0.0063650124,David Blough,Detroit Lions,0
+66,Brandon Allen,0.993635,0.0063650124,Brandon Allen,Denver Broncos,0
+67,Mason Rudolph,0.993635,0.0063650124,Mason Rudolph,Pittsburgh Steelers,0
+68,Tim Boyle,0.993635,0.0063650124,Tim Boyle,Green Bay Packers,0
+69,A.J. McCarron,0.993635,0.0063650124,A.J. McCarron,Houston Texans,0
